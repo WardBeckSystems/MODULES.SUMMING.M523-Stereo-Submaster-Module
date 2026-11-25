@@ -70,7 +70,7 @@ Berg
 
 ```json
 {
- "file": "Modules/SUMMING/M523/SCHEMATICS/1985 - M523 - ST Series - Stereo Submaster Module - 023 - SA14-077 Control Assembly.jpg",
+ "file": "Modules/SUMMING/M523/MANUALS/1985 - M523 - ST Series - Stereo Submaster Module - 023 - SA14-077 Control Assembly.jpg",
  "sha256": "e51d3c94904cc66bde74bee9d52bf0b5d913f92e5d0ddb27f4bb4cb04ada91bc",
  "kind": "module",
  "models": [

@@ -63,7 +63,7 @@ This assembly utilizes Ion power CMOS circui- try throughout  Regu_ Iator U: dec
 
 ```json
 {
- "file": "Modules/SUMMING/M523/SCHEMATICS/1985 - M523 - ST Series - Stereo Submaster Module - 022 - SA14-077 Control Assembly.jpg",
+ "file": "Modules/SUMMING/M523/MANUALS/1985 - M523 - ST Series - Stereo Submaster Module - 022 - SA14-077 Control Assembly.jpg",
  "sha256": "11ba90d887da08c0db9759578dddca5abb2e07454c191d2dee2411757b054aee",
  "kind": "module",
  "models": [

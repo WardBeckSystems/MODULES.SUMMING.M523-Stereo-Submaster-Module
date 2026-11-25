@@ -39,7 +39,7 @@ Issue #1 April 1985
 
 ```json
 {
- "file": "Modules/SUMMING/M523/SCHEMATICS/1985 - M523 - ST Series - Stereo Submaster Module - 021 - SA14-077 Control Assembly.jpg",
+ "file": "Modules/SUMMING/M523/MANUALS/1985 - M523 - ST Series - Stereo Submaster Module - 021 - SA14-077 Control Assembly.jpg",
  "sha256": "a0b21c6029e8081d72e70cb502f1c90e64f284efc74db4c37509a805370c07e1",
  "kind": "module",
  "models": [

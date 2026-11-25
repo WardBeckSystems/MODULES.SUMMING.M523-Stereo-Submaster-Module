@@ -81,7 +81,7 @@ WBS recommends the use of replacements parts made by the specified manufacturers
 
 ```json
 {
- "file": "Modules/SUMMING/M523/SCHEMATICS/1985 - M523 - ST Series - Stereo Submaster Module - 024 - SA14-077 Control Assembly.jpg",
+ "file": "Modules/SUMMING/M523/MANUALS/1985 - M523 - ST Series - Stereo Submaster Module - 024 - SA14-077 Control Assembly.jpg",
  "sha256": "c2b2632fe4512171cf9177cee3bd031a532f289190f16155864386f8a7a851ca",
  "kind": "module",
  "models": [
