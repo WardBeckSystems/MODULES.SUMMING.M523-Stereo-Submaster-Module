@@ -1,0 +1,141 @@
+{
+ "code": "M523",
+ "connector": "RTO-144",
+ "type": "Stereo Submaster Module",
+ "series": null,
+ "contacts": "20 contacts, 1 contacts (P1), 22 contacts (P2)",
+ "verified": null,
+ "derived": true,
+ "variant_of": null,
+ "pins": [
+  {
+   "pin": "1",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/SUMMING/M523/SCHEMATICS/1985 - M523 - ST Series - Stereo Submaster Module - 026 - SA14-077 Control Assembly - Component Layout.jpg",
+   "page": 1
+  },
+  {
+   "pin": "1",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/SUMMING/M523/SCHEMATICS/1985 - M523 - B 523-06-001 - M523 STEREO SUBMASTER MODULE - COMPONENT LAYOUT.jpg",
+   "page": 1
+  },
+  {
+   "pin": "3",
+   "signal": "ISOLATES THE AMPLIFIER OUTPUT FROM CAPACITIVE LO",
+   "kind": "out",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/SUMMING/M523/MANUALS/1985 - M523 - ST Series - Stereo Submaster Module - 035 - SA14-087 Output Amp.jpg",
+   "page": 1
+  },
+  {
+   "pin": "4",
+   "signal": "ISOLATES THE AMPLIFIER OUTPUT FROM CAPACITIVE LO",
+   "kind": "out",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/SUMMING/M523/MANUALS/1985 - M523 - ST Series - Stereo Submaster Module - 035 - SA14-087 Output Amp.jpg",
+   "page": 1
+  },
+  {
+   "pin": "7",
+   "signal": "MONO CONNECTOR  OUTPUT",
+   "kind": "out",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/SUMMING/M523/MANUALS/1985 - M523 - ST Series - Stereo Submaster Module - 035 - SA14-087 Output Amp.jpg",
+   "page": 1
+  },
+  {
+   "pin": "8",
+   "signal": "MONO CONNECTOR  OUTPUT",
+   "kind": "out",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/SUMMING/M523/MANUALS/1985 - M523 - ST Series - Stereo Submaster Module - 035 - SA14-087 Output Amp.jpg",
+   "page": 1
+  },
+  {
+   "pin": "9",
+   "signal": "ISOLATES THE AMPLIFIER OUTPUT FROM CAPACITIVE LO",
+   "kind": "out",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/SUMMING/M523/MANUALS/1985 - M523 - ST Series - Stereo Submaster Module - 035 - SA14-087 Output Amp.jpg",
+   "page": 1
+  },
+  {
+   "pin": "10",
+   "signal": "ISOLATES THE AMPLIFIER OUTPUT FROM CAPACITIVE LO",
+   "kind": "out",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/SUMMING/M523/MANUALS/1985 - M523 - ST Series - Stereo Submaster Module - 035 - SA14-087 Output Amp.jpg",
+   "page": 1
+  },
+  {
+   "pin": "11",
+   "signal": "INPUT TO THIS AMPLIFIER",
+   "kind": "in",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/SUMMING/M523/MANUALS/1985 - M523 - ST Series - Stereo Submaster Module - 035 - SA14-087 Output Amp.jpg",
+   "page": 1
+  },
+  {
+   "pin": "12",
+   "signal": "INPUT TO THIS AMPLIFIER",
+   "kind": "in",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/SUMMING/M523/MANUALS/1985 - M523 - ST Series - Stereo Submaster Module - 035 - SA14-087 Output Amp.jpg",
+   "page": 1
+  },
+  {
+   "pin": "22",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/SUMMING/M523/SCHEMATICS/1985 - M523 - 523-06-001 - STEREO SUBMASTER MODULE COMPONENT LAYOUT.jpg",
+   "page": 1
+  }
+ ],
+ "straps": [],
+ "power": [],
+ "sources": [
+  "Modules/SUMMING/M523/MANUALS/1985 - M523 - ST Series - Stereo Submaster Module - 035 - SA14-087 Output Amp.jpg",
+  "Modules/SUMMING/M523/SCHEMATICS/1985 - M523 - 523-06-001 - STEREO SUBMASTER MODULE COMPONENT LAYOUT.jpg",
+  "Modules/SUMMING/M523/SCHEMATICS/1985 - M523 - B 523-06-001 - M523 STEREO SUBMASTER MODULE - COMPONENT LAYOUT.jpg",
+  "Modules/SUMMING/M523/SCHEMATICS/1985 - M523 - ST Series - Stereo Submaster Module - 026 - SA14-077 Control Assembly - Component Layout.jpg"
+ ]
+}
