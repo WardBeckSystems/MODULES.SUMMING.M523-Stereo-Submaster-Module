@@ -24,7 +24,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 33 in 27 lines: WBS · BAL · PGM · Mix · AUX · PRE PST · AUX 3 · PRE PST · AUX 2 · PRE · PST · AUX
 - **Title block:** (16, 0)–(194, 429) mm: WBS · BAL · PGM · Mix · AUX · PRE PST · AUX 3 · PRE PST · AUX 2 · PRE · PST · AUX · PRE PST · ISSUE DATE · REVISION · SUB · WBS WAAD-BECK · ON · DRN rD · M523 · ENG_ · STEREO SUB MODULE · CKD · FRONT 
 
-Every curve, box, word and wire group: [19xx - M523 - DOC - 523-04-001 - STEREO SUB MODULE (traced).json](../MECHANICAL/19xx%20-%20M523%20-%20DOC%20-%20523-04-001%20-%20STEREO%20SUB%20MODULE%20(traced).json) (the CAD file: `19xx - M523 - DOC - 523-04-001 - STEREO SUB MODULE (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M523 - DOC - 523-04-001 - STEREO SUB MODULE (traced).json](../MECHANICAL/19xx%20-%20M523%20-%20DOC%20-%20523-04-001%20-%20STEREO%20SUB%20MODULE%20%28traced%29.json) (the CAD file: `19xx - M523 - DOC - 523-04-001 - STEREO SUB MODULE (traced).dxf`).
 
 ## Full text
 

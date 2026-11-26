@@ -33,7 +33,7 @@ Aged copy of M523 schematic sheet 1, cropped at the right edge.
 - **Title block:** (344, 30)–(432, 49) mm: WBS · WARD-BECK SYSTEI
 - **Wiring (first pass):** 95 connected wire groups from 949 runs; labelled ends: 1652 mm → 39k; 12 mm → 39k; 9 mm → 39k; 6 mm → 39k
 
-Every curve, box, word and wire group: [19xx - 523-02-001 - STEREO SUBMASTER MODULE SCHEMATIC (2) (traced).json](../SCHEMATICS/19xx%20-%20523-02-001%20-%20STEREO%20SUBMASTER%20MODULE%20SCHEMATIC%20(2)%20(traced).json) (the CAD file: `19xx - 523-02-001 - STEREO SUBMASTER MODULE SCHEMATIC (2) (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 523-02-001 - STEREO SUBMASTER MODULE SCHEMATIC (2) (traced).json](../SCHEMATICS/19xx%20-%20523-02-001%20-%20STEREO%20SUBMASTER%20MODULE%20SCHEMATIC%20%282%29%20%28traced%29.json) (the CAD file: `19xx - 523-02-001 - STEREO SUBMASTER MODULE SCHEMATIC (2) (traced).dxf`).
 
 ## Full text
 

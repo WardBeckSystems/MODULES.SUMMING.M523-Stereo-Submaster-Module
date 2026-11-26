@@ -21,7 +21,7 @@ Wiki page: [M523](../../../../PAGES/M523.md)
 - **Closed boxes:** 29
 - **Wiring (first pass):** 103 connected wire groups from 860 runs
 
-Every curve, box, word and wire group: [1985 - M523 - 523-02-001 - AICHT SOLO QUTPUT WES (2) (traced).json](../SCHEMATICS/1985%20-%20M523%20-%20523-02-001%20-%20AICHT%20SOLO%20QUTPUT%20WES%20(2)%20(traced).json) (the CAD file: `1985 - M523 - 523-02-001 - AICHT SOLO QUTPUT WES (2) (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M523 - 523-02-001 - AICHT SOLO QUTPUT WES (2) (traced).json](../SCHEMATICS/1985%20-%20M523%20-%20523-02-001%20-%20AICHT%20SOLO%20QUTPUT%20WES%20%282%29%20%28traced%29.json) (the CAD file: `1985 - M523 - 523-02-001 - AICHT SOLO QUTPUT WES (2) (traced).dxf`).
 
 ## Full text
 

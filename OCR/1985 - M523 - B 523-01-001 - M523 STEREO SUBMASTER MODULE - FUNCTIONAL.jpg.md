@@ -23,7 +23,7 @@ Wiki page: [M523](../../../../PAGES/M523.md)
 - **Title block:** (330, 31)–(432, 50) mm: WARD-BECK SysTeMB · WBS
 - **Wiring (first pass):** 200 connected wire groups from 775 runs; labelled ends: 331 mm → PrE /Post; 320 mm → JRE 'Pos; 271 mm → Pre /Post; 103 mm → EE T; 74 mm → Pre /Post
 
-Every curve, box, word and wire group: [1985 - M523 - B 523-01-001 - M523 STEREO SUBMASTER MODULE - FUNCTIONAL (traced).json](../SCHEMATICS/1985%20-%20M523%20-%20B%20523-01-001%20-%20M523%20STEREO%20SUBMASTER%20MODULE%20-%20FUNCTIONAL%20(traced).json) (the CAD file: `1985 - M523 - B 523-01-001 - M523 STEREO SUBMASTER MODULE - FUNCTIONAL (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M523 - B 523-01-001 - M523 STEREO SUBMASTER MODULE - FUNCTIONAL (traced).json](../SCHEMATICS/1985%20-%20M523%20-%20B%20523-01-001%20-%20M523%20STEREO%20SUBMASTER%20MODULE%20-%20FUNCTIONAL%20%28traced%29.json) (the CAD file: `1985 - M523 - B 523-01-001 - M523 STEREO SUBMASTER MODULE - FUNCTIONAL (traced).dxf`).
 
 ## Full text
 

@@ -11,6 +11,17 @@ Wiki page: [M523](../../../../PAGES/M523.md)
 - **Size:** 869,608 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** layout, size B (assumed) 319 × 432 mm, 1477 × 2000 px traced (0.216 mm/px)
+- **Ink extent:** 10–303 mm across, 5–425 mm up
+- **Outlines:** line 113 rings, 3,894 straight (7,673 mm) / 347 curved (549 mm); text 727 rings, 6,797 straight (8,589 mm) / 1,623 curved (2,530 mm)
+- **Closed boxes:** 54; named: 10; 12; 11; 13; 14; 16; 15; 18; 17; 20; 19; 21
+- **Words (OCR):** 158 in 113 lines: WAAD-BECK · SysteMs LTD_ · P1 · CONNECTOR · LAYOUT · M523 SUBMASTER · MODULE · M1 MONO · Mi MONO · NC · NC · m2 MONO
+- **Title block:** (2, 409)–(136, 432) mm: WAAD-BECK · SysteMs LTD_
+
+Every curve, box, word and wire group: [1985 - M523 - ST Series - Stereo Submaster Module - 013 - p1 Connector pinout (traced).json](../PINOUTS/1985%20-%20M523%20-%20ST%20Series%20-%20Stereo%20Submaster%20Module%20-%20013%20-%20p1%20Connector%20pinout%20%28traced%29.json) (the CAD file: `1985 - M523 - ST Series - Stereo Submaster Module - 013 - p1 Connector pinout (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR, spell-checked: 1 words corrected)

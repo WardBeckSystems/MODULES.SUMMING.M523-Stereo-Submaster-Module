@@ -11,6 +11,17 @@ Wiki page: [M523](../../../../PAGES/M523.md)
 - **Size:** 712,787 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** layout, size B (assumed) 314 × 432 mm, 1454 × 2000 px traced (0.216 mm/px)
+- **Ink extent:** 12–304 mm across, 9–423 mm up
+- **Outlines:** line 108 rings, 3,664 straight (6,922 mm) / 353 curved (572 mm); text 482 rings, 4,287 straight (5,609 mm) / 1,049 curved (1,698 mm)
+- **Closed boxes:** 44; named: 10; 12; 13; 14; 15; 16; 18; 19; 20; 21; 22
+- **Dots (junctions):** 1
+- **Words (OCR):** 82 in 74 lines: WARD-BECK SYSTEMS LTD_ · P2 · CONNECTOR · LAYoUT · M523 SUBMASTER MODULE · DIR · DIR · MONO · oUTPUTS · MONO · METER · METER
+
+Every curve, box, word and wire group: [1985 - M523 - ST Series - Stereo Submaster Module - 014 - p2 Connector pinout (traced).json](../PINOUTS/1985%20-%20M523%20-%20ST%20Series%20-%20Stereo%20Submaster%20Module%20-%20014%20-%20p2%20Connector%20pinout%20%28traced%29.json) (the CAD file: `1985 - M523 - ST Series - Stereo Submaster Module - 014 - p2 Connector pinout (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR, spell-checked: 1 words corrected)

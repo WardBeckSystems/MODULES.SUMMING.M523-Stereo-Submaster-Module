@@ -23,7 +23,7 @@ Wiki page: [M523](../../../../PAGES/M523.md)
 - **Title block:** (338, 28)–(432, 44) mm: WBS WARD-Beck BystemB
 - **Wiring (first pass):** 122 connected wire groups from 892 runs; labelled ends: 161 mm → JJi0; 132 mm → 220}I0; 93 mm → 10/zy; 90 mm → Thzi0Z; 82 mm → 210/I0
 
-Every curve, box, word and wire group: [1985 - M523 - B 14-086-02-001 - SA14-086 SUMMING AMPLIFIER ASSEMBLY - SCHEMATIC (traced).json](../SCHEMATICS/1985%20-%20M523%20-%20B%2014-086-02-001%20-%20SA14-086%20SUMMING%20AMPLIFIER%20ASSEMBLY%20-%20SCHEMATIC%20(traced).json) (the CAD file: `1985 - M523 - B 14-086-02-001 - SA14-086 SUMMING AMPLIFIER ASSEMBLY - SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M523 - B 14-086-02-001 - SA14-086 SUMMING AMPLIFIER ASSEMBLY - SCHEMATIC (traced).json](../SCHEMATICS/1985%20-%20M523%20-%20B%2014-086-02-001%20-%20SA14-086%20SUMMING%20AMPLIFIER%20ASSEMBLY%20-%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1985 - M523 - B 14-086-02-001 - SA14-086 SUMMING AMPLIFIER ASSEMBLY - SCHEMATIC (traced).dxf`).
 
 ## Full text
 

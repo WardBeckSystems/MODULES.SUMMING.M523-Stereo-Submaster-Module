@@ -23,7 +23,7 @@ Wiki page: [M523](../../../../PAGES/M523.md)
 - **Words (OCR):** 25 in 23 lines: CHANREL SENSE · ResIsToAS · spfcifiec · SENSE · DICDES ARE · UNLESS Oiheamise · SPFCIFIFD · GEHSE · IC LINF · OVLO · 1/35 · 74hi4n
 - **Wiring (first pass):** 88 connected wire groups from 1,129 runs; labelled ends: 3549 mm → 74hi4n, Jicj; 51 mm → 74hi4n, 01#00; 40 mm → Jicj; 37 mm → 1/J5; 36 mm → 74hi4n
 
-Every curve, box, word and wire group: [1985 - M523 - B 14-077-02-001 - SA14-077 CONTROL ASSEMBLY - SCHEMATIC (traced).json](../SCHEMATICS/1985%20-%20M523%20-%20B%2014-077-02-001%20-%20SA14-077%20CONTROL%20ASSEMBLY%20-%20SCHEMATIC%20(traced).json) (the CAD file: `1985 - M523 - B 14-077-02-001 - SA14-077 CONTROL ASSEMBLY - SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M523 - B 14-077-02-001 - SA14-077 CONTROL ASSEMBLY - SCHEMATIC (traced).json](../SCHEMATICS/1985%20-%20M523%20-%20B%2014-077-02-001%20-%20SA14-077%20CONTROL%20ASSEMBLY%20-%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1985 - M523 - B 14-077-02-001 - SA14-077 CONTROL ASSEMBLY - SCHEMATIC (traced).dxf`).
 
 ## Full text
 

@@ -31,7 +31,7 @@ M523 stereo submaster module schematic, title block at bottom left reading sidew
 - **Closed boxes:** 30
 - **Wiring (first pass):** 105 connected wire groups from 875 runs
 
-Every curve, box, word and wire group: [19xx - 523-02-001 - STEREO SUBMASTER MODULE SCHEMATIC (traced).json](../SCHEMATICS/19xx%20-%20523-02-001%20-%20STEREO%20SUBMASTER%20MODULE%20SCHEMATIC%20(traced).json) (the CAD file: `19xx - 523-02-001 - STEREO SUBMASTER MODULE SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 523-02-001 - STEREO SUBMASTER MODULE SCHEMATIC (traced).json](../SCHEMATICS/19xx%20-%20523-02-001%20-%20STEREO%20SUBMASTER%20MODULE%20SCHEMATIC%20%28traced%29.json) (the CAD file: `19xx - 523-02-001 - STEREO SUBMASTER MODULE SCHEMATIC (traced).dxf`).
 
 ## Full text
 

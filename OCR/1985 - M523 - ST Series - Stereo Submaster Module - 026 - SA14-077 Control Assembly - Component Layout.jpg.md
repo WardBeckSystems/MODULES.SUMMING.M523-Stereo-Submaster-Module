@@ -11,6 +11,18 @@ Wiki page: [M523](../../../../PAGES/M523.md)
 - **Size:** 1,946,814 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** component layout, size B (assumed) 429 × 432 mm, 1985 × 2000 px traced (0.216 mm/px)
+- **Ink extent:** 6–416 mm across, 0–432 mm up
+- **Outlines:** line 505 rings, 6,807 straight (10,873 mm) / 2,069 curved (2,200 mm); text 631 rings, 5,749 straight (6,050 mm) / 1,864 curved (2,196 mm); tb 4 rings, 144 straight (236 mm) / 31 curved (26.6 mm)
+- **Circles and arcs:** 2 circles, 0 arcs; largest r 2.9 @ (37.3, 264.9), r 2.9 @ (37.5, 404.1)
+- **Closed boxes:** 1
+- **Words (OCR):** 37 in 29 lines: PN3569 P2-1 · OOO00 · aa · 2922 · Tkgioz % 2288 · TO: · 3882222222 · 88 87 · 82822 · Gov · R2 · 23
+- **Title block:** (205, 63)–(424, 272) mm: WBS · WARD-BECK SYSTEMS
+
+Every curve, box, word and wire group: [1985 - M523 - ST Series - Stereo Submaster Module - 026 - SA14-077 Control Assembly - Component Layout (traced).json](../SCHEMATICS/1985%20-%20M523%20-%20ST%20Series%20-%20Stereo%20Submaster%20Module%20-%20026%20-%20SA14-077%20Control%20Assembly%20-%20Component%20Layout%20%28traced%29.json) (the CAD file: `1985 - M523 - ST Series - Stereo Submaster Module - 026 - SA14-077 Control Assembly - Component Layout (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR)

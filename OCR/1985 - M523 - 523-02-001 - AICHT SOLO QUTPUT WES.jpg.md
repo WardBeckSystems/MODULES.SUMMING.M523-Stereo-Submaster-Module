@@ -23,7 +23,7 @@ Wiki page: [M523](../../../../PAGES/M523.md)
 - **Title block:** (355, 25)–(432, 43) mm: WBS · WARD-BECK SYSTEC
 - **Wiring (first pass):** 101 connected wire groups from 838 runs; labelled ends: 1792 mm → 39k; 10 mm → 39k; 7 mm → 39k
 
-Every curve, box, word and wire group: [1985 - M523 - 523-02-001 - AICHT SOLO QUTPUT WES (traced).json](../SCHEMATICS/1985%20-%20M523%20-%20523-02-001%20-%20AICHT%20SOLO%20QUTPUT%20WES%20(traced).json) (the CAD file: `1985 - M523 - 523-02-001 - AICHT SOLO QUTPUT WES (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M523 - 523-02-001 - AICHT SOLO QUTPUT WES (traced).json](../SCHEMATICS/1985%20-%20M523%20-%20523-02-001%20-%20AICHT%20SOLO%20QUTPUT%20WES%20%28traced%29.json) (the CAD file: `1985 - M523 - 523-02-001 - AICHT SOLO QUTPUT WES (traced).dxf`).
 
 ## Full text
 

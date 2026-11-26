@@ -11,6 +11,18 @@ Wiki page: [M523](../../../../PAGES/M523.md)
 - **Size:** 3,560,832 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** component layout, size B (assumed) 432 × 421 mm, 2000 × 1950 px traced (0.216 mm/px)
+- **Ink extent:** 8–432 mm across, 1–421 mm up
+- **Outlines:** line 1,143 rings, 14,150 straight (19,031 mm) / 4,065 curved (4,488 mm); text 1,594 rings, 12,789 straight (12,624 mm) / 4,687 curved (5,451 mm); tb 2 rings, 116 straight (197 mm) / 23 curved (20.8 mm)
+- **Circles and arcs:** 6 circles, 0 arcs; largest r 4.4 @ (168.2, 340.3), r 4.4 @ (268.1, 340.8), r 4.4 @ (94.9, 339.9), r 2.7 @ (354.7, 219.8)
+- **Closed boxes:** 6; named: C61 100/25; C6O 100/25
+- **Words (OCR):** 293 in 222 lines: 14-087 · PN3969 · PN3645 · C61 · 0 ISS · PN3569 · PN645 · ~~Rizagk9 22/25, · 058 · 100/25 · Pz · (011
+- **Title block:** (249, 66)–(420, 93) mm: WBS WARD-BECK sysTEMB
+
+Every curve, box, word and wire group: [1985 - M523 - ST Series - Stereo Submaster Module - 041 - SA14-087 Output Amp - Component Layout (traced).json](../SCHEMATICS/1985%20-%20M523%20-%20ST%20Series%20-%20Stereo%20Submaster%20Module%20-%20041%20-%20SA14-087%20Output%20Amp%20-%20Component%20Layout%20%28traced%29.json) (the CAD file: `1985 - M523 - ST Series - Stereo Submaster Module - 041 - SA14-087 Output Amp - Component Layout (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR)

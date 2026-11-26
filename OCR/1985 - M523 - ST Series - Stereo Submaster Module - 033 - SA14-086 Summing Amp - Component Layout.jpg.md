@@ -11,6 +11,18 @@ Wiki page: [M523](../../../../PAGES/M523.md)
 - **Size:** 2,302,230 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** component layout, size B (assumed) 398 × 432 mm, 1841 × 2000 px traced (0.216 mm/px)
+- **Ink extent:** 17–388 mm across, 0–432 mm up
+- **Outlines:** line 511 rings, 7,917 straight (11,565 mm) / 2,150 curved (2,290 mm); text 833 rings, 7,464 straight (7,445 mm) / 2,622 curved (3,120 mm); tb 23 rings, 325 straight (496 mm) / 75 curved (83.7 mm)
+- **Circles and arcs:** 5 circles, 0 arcs; largest r 4.2 @ (69.6, 317.8), r 4.2 @ (153.8, 317.3), r 2.6 @ (28.5, 239.8), r 2.6 @ (25.1, 405.6)
+- **Closed boxes:** 6
+- **Words (OCR):** 155 in 121 lines: 0. 1/100 0.1/100 R3L !OOK · C46 · 14o · Pz · P1086 · P1086 · C47 IOO00 · 0. 068 · P1086 · 0. 068 · CRZ IN5711 P1086 · CRI
+- **Title block:** (150, 61)–(396, 253) mm: R40 ZK · PI 14-086 · WBS · ISSUE 31 · CANADA · WBS WARD-BECK SYSTEMS
+
+Every curve, box, word and wire group: [1985 - M523 - ST Series - Stereo Submaster Module - 033 - SA14-086 Summing Amp - Component Layout (traced).json](../SCHEMATICS/1985%20-%20M523%20-%20ST%20Series%20-%20Stereo%20Submaster%20Module%20-%20033%20-%20SA14-086%20Summing%20Amp%20-%20Component%20Layout%20%28traced%29.json) (the CAD file: `1985 - M523 - ST Series - Stereo Submaster Module - 033 - SA14-086 Summing Amp - Component Layout (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR)

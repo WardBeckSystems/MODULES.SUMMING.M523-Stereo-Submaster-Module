@@ -24,7 +24,7 @@ Wiki page: [M523](../../../../PAGES/M523.md)
 - **Title block:** (339, 31)–(432, 48) mm: WBS · WARD-BeCK SYSTEMS
 - **Wiring (first pass):** 132 connected wire groups from 1,143 runs
 
-Every curve, box, word and wire group: [1985 - M523 - B 14-087-02-001 - SA14-087 OUTPUT AMPLIFIER - SCHEMATIC (traced).json](../SCHEMATICS/1985%20-%20M523%20-%20B%2014-087-02-001%20-%20SA14-087%20OUTPUT%20AMPLIFIER%20-%20SCHEMATIC%20(traced).json) (the CAD file: `1985 - M523 - B 14-087-02-001 - SA14-087 OUTPUT AMPLIFIER - SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M523 - B 14-087-02-001 - SA14-087 OUTPUT AMPLIFIER - SCHEMATIC (traced).json](../SCHEMATICS/1985%20-%20M523%20-%20B%2014-087-02-001%20-%20SA14-087%20OUTPUT%20AMPLIFIER%20-%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1985 - M523 - B 14-087-02-001 - SA14-087 OUTPUT AMPLIFIER - SCHEMATIC (traced).dxf`).
 
 ## Full text
 
