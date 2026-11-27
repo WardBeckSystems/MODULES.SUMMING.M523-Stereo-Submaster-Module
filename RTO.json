@@ -1,141 +1,1958 @@
 {
  "code": "M523",
  "connector": "RTO-144",
- "type": "Stereo Submaster Module",
+ "type": null,
  "series": null,
- "contacts": "20 contacts, 1 contacts (P1), 22 contacts (P2)",
+ "connectors": [
+  {
+   "name": "P1",
+   "kind": "edge",
+   "contacts": 56,
+   "rows": "1-56, odd numbers on one side opposite even numbers (2|1 ... 56|55)",
+   "view": null,
+   "part": null
+  },
+  {
+   "name": "P2",
+   "kind": "edge",
+   "contacts": 44,
+   "rows": "A-Z opposite 1-22",
+   "view": null,
+   "part": null
+  }
+ ],
  "verified": null,
- "derived": true,
- "variant_of": null,
+ "built_from": {
+  "pictures": [
+   "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 013 - p1 Connector pinout.pinout.json",
+   "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 014 - p2 Connector pinout.pinout.json"
+  ],
+  "sheet": null,
+  "sheet_agrees": null
+ },
  "pins": [
   {
+   "connector": "P1",
    "pin": "1",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
+   "ref": "P1-1",
+   "also": "2",
+   "same_row": null,
+   "signal": "M1 MONO BUS",
+   "kind": "bus",
+   "port": "M1 MONO",
    "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/SUMMING/M523/SCHEMATICS/1985 - M523 - ST Series - Stereo Submaster Module - 026 - SA14-077 Control Assembly - Component Layout.jpg",
-   "page": 1
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 013 - p1 Connector pinout.pinout.json"
+   ],
+   "sheet": null
   },
   {
-   "pin": "1",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
+   "connector": "P1",
+   "pin": "2",
+   "ref": "P1-2",
+   "also": "1",
+   "same_row": null,
+   "signal": "M1 MONO BUS",
+   "kind": "bus",
+   "port": "M1 MONO",
    "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/SUMMING/M523/SCHEMATICS/1985 - M523 - B 523-06-001 - M523 STEREO SUBMASTER MODULE - COMPONENT LAYOUT.jpg",
-   "page": 1
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 013 - p1 Connector pinout.pinout.json"
+   ],
+   "sheet": null
   },
   {
+   "connector": "P1",
    "pin": "3",
-   "signal": "ISOLATES THE AMPLIFIER OUTPUT FROM CAPACITIVE LO",
-   "kind": "out",
-   "pair": null,
+   "ref": "P1-3",
+   "also": "4",
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
    "polarity": null,
-   "confidence": "medium",
-   "read_from": "prose",
-   "file": "Modules/SUMMING/M523/MANUALS/1985 - M523 - ST Series - Stereo Submaster Module - 035 - SA14-087 Output Amp.jpg",
-   "page": 1
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 013 - p1 Connector pinout.pinout.json"
+   ],
+   "sheet": null
   },
   {
+   "connector": "P1",
    "pin": "4",
-   "signal": "ISOLATES THE AMPLIFIER OUTPUT FROM CAPACITIVE LO",
-   "kind": "out",
-   "pair": null,
+   "ref": "P1-4",
+   "also": "3",
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
    "polarity": null,
-   "confidence": "medium",
-   "read_from": "prose",
-   "file": "Modules/SUMMING/M523/MANUALS/1985 - M523 - ST Series - Stereo Submaster Module - 035 - SA14-087 Output Amp.jpg",
-   "page": 1
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 013 - p1 Connector pinout.pinout.json"
+   ],
+   "sheet": null
   },
   {
+   "connector": "P1",
+   "pin": "5",
+   "ref": "P1-5",
+   "also": "6",
+   "same_row": null,
+   "signal": "M2 MONO BUS",
+   "kind": "bus",
+   "port": "M2 MONO",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 013 - p1 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "6",
+   "ref": "P1-6",
+   "also": "5",
+   "same_row": null,
+   "signal": "M2 MONO BUS",
+   "kind": "bus",
+   "port": "M2 MONO",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 013 - p1 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
    "pin": "7",
-   "signal": "MONO CONNECTOR  OUTPUT",
-   "kind": "out",
-   "pair": null,
+   "ref": "P1-7",
+   "also": "8",
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
    "polarity": null,
-   "confidence": "medium",
-   "read_from": "prose",
-   "file": "Modules/SUMMING/M523/MANUALS/1985 - M523 - ST Series - Stereo Submaster Module - 035 - SA14-087 Output Amp.jpg",
-   "page": 1
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 013 - p1 Connector pinout.pinout.json"
+   ],
+   "sheet": null
   },
   {
+   "connector": "P1",
    "pin": "8",
-   "signal": "MONO CONNECTOR  OUTPUT",
-   "kind": "out",
-   "pair": null,
+   "ref": "P1-8",
+   "also": "7",
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
    "polarity": null,
-   "confidence": "medium",
-   "read_from": "prose",
-   "file": "Modules/SUMMING/M523/MANUALS/1985 - M523 - ST Series - Stereo Submaster Module - 035 - SA14-087 Output Amp.jpg",
-   "page": 1
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 013 - p1 Connector pinout.pinout.json"
+   ],
+   "sheet": null
   },
   {
+   "connector": "P1",
    "pin": "9",
-   "signal": "ISOLATES THE AMPLIFIER OUTPUT FROM CAPACITIVE LO",
-   "kind": "out",
-   "pair": null,
-   "polarity": null,
-   "confidence": "medium",
-   "read_from": "prose",
-   "file": "Modules/SUMMING/M523/MANUALS/1985 - M523 - ST Series - Stereo Submaster Module - 035 - SA14-087 Output Amp.jpg",
-   "page": 1
+   "ref": "P1-9",
+   "also": "10",
+   "same_row": null,
+   "signal": "M1 LEFT BUS",
+   "kind": "bus",
+   "port": "M1",
+   "polarity": "L",
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 013 - p1 Connector pinout.pinout.json"
+   ],
+   "sheet": null
   },
   {
+   "connector": "P1",
    "pin": "10",
-   "signal": "ISOLATES THE AMPLIFIER OUTPUT FROM CAPACITIVE LO",
-   "kind": "out",
-   "pair": null,
-   "polarity": null,
-   "confidence": "medium",
-   "read_from": "prose",
-   "file": "Modules/SUMMING/M523/MANUALS/1985 - M523 - ST Series - Stereo Submaster Module - 035 - SA14-087 Output Amp.jpg",
-   "page": 1
+   "ref": "P1-10",
+   "also": "9",
+   "same_row": null,
+   "signal": "M1 LEFT BUS",
+   "kind": "bus",
+   "port": "M1",
+   "polarity": "L",
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 013 - p1 Connector pinout.pinout.json"
+   ],
+   "sheet": null
   },
   {
+   "connector": "P1",
    "pin": "11",
-   "signal": "INPUT TO THIS AMPLIFIER",
-   "kind": "in",
-   "pair": null,
-   "polarity": null,
-   "confidence": "medium",
-   "read_from": "prose",
-   "file": "Modules/SUMMING/M523/MANUALS/1985 - M523 - ST Series - Stereo Submaster Module - 035 - SA14-087 Output Amp.jpg",
-   "page": 1
+   "ref": "P1-11",
+   "also": "12",
+   "same_row": null,
+   "signal": "M1 RIGHT BUS",
+   "kind": "bus",
+   "port": "M1",
+   "polarity": "R",
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 013 - p1 Connector pinout.pinout.json"
+   ],
+   "sheet": null
   },
   {
+   "connector": "P1",
    "pin": "12",
-   "signal": "INPUT TO THIS AMPLIFIER",
-   "kind": "in",
-   "pair": null,
-   "polarity": null,
-   "confidence": "medium",
-   "read_from": "prose",
-   "file": "Modules/SUMMING/M523/MANUALS/1985 - M523 - ST Series - Stereo Submaster Module - 035 - SA14-087 Output Amp.jpg",
-   "page": 1
+   "ref": "P1-12",
+   "also": "11",
+   "same_row": null,
+   "signal": "M1 RIGHT BUS",
+   "kind": "bus",
+   "port": "M1",
+   "polarity": "R",
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 013 - p1 Connector pinout.pinout.json"
+   ],
+   "sheet": null
   },
   {
-   "pin": "22",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
+   "connector": "P1",
+   "pin": "13",
+   "ref": "P1-13",
+   "also": "14",
+   "same_row": null,
+   "signal": "M2 LEFT BUS",
+   "kind": "bus",
+   "port": "M2",
+   "polarity": "L",
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 013 - p1 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "14",
+   "ref": "P1-14",
+   "also": "13",
+   "same_row": null,
+   "signal": "M2 LEFT BUS",
+   "kind": "bus",
+   "port": "M2",
+   "polarity": "L",
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 013 - p1 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "15",
+   "ref": "P1-15",
+   "also": "16",
+   "same_row": null,
+   "signal": "M2 RIGHT BUS",
+   "kind": "bus",
+   "port": "M2",
+   "polarity": "R",
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 013 - p1 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "16",
+   "ref": "P1-16",
+   "also": "15",
+   "same_row": null,
+   "signal": "M2 RIGHT BUS",
+   "kind": "bus",
+   "port": "M2",
+   "polarity": "R",
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 013 - p1 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "17",
+   "ref": "P1-17",
+   "also": "18",
+   "same_row": null,
+   "signal": "AUX 4 BUS",
+   "kind": "bus",
+   "port": "AUX 4",
    "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/SUMMING/M523/SCHEMATICS/1985 - M523 - 523-06-001 - STEREO SUBMASTER MODULE COMPONENT LAYOUT.jpg",
-   "page": 1
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 013 - p1 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "18",
+   "ref": "P1-18",
+   "also": "17",
+   "same_row": null,
+   "signal": "AUX 4 BUS",
+   "kind": "bus",
+   "port": "AUX 4",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 013 - p1 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "19",
+   "ref": "P1-19",
+   "also": "20",
+   "same_row": null,
+   "signal": "AUX 3 BUS",
+   "kind": "bus",
+   "port": "AUX 3",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 013 - p1 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "20",
+   "ref": "P1-20",
+   "also": "19",
+   "same_row": null,
+   "signal": "AUX 3 BUS",
+   "kind": "bus",
+   "port": "AUX 3",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 013 - p1 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "21",
+   "ref": "P1-21",
+   "also": "22",
+   "same_row": null,
+   "signal": "AUX 2 RIGHT BUS",
+   "kind": "bus",
+   "port": "AUX 2",
+   "polarity": "R",
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 013 - p1 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "22",
+   "ref": "P1-22",
+   "also": "21",
+   "same_row": null,
+   "signal": "AUX 2 RIGHT BUS",
+   "kind": "bus",
+   "port": "AUX 2",
+   "polarity": "R",
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 013 - p1 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "23",
+   "ref": "P1-23",
+   "also": "24",
+   "same_row": null,
+   "signal": "AUX 2 LEFT BUS",
+   "kind": "bus",
+   "port": "AUX 2",
+   "polarity": "L",
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 013 - p1 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "24",
+   "ref": "P1-24",
+   "also": "23",
+   "same_row": null,
+   "signal": "AUX 2 LEFT BUS",
+   "kind": "bus",
+   "port": "AUX 2",
+   "polarity": "L",
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 013 - p1 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "25",
+   "ref": "P1-25",
+   "also": "26",
+   "same_row": null,
+   "signal": "AUX 1 RIGHT BUS",
+   "kind": "bus",
+   "port": "AUX 1",
+   "polarity": "R",
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 013 - p1 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "26",
+   "ref": "P1-26",
+   "also": "25",
+   "same_row": null,
+   "signal": "AUX 1 RIGHT BUS",
+   "kind": "bus",
+   "port": "AUX 1",
+   "polarity": "R",
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 013 - p1 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "27",
+   "ref": "P1-27",
+   "also": "28",
+   "same_row": null,
+   "signal": "AUX 1 LEFT BUS",
+   "kind": "bus",
+   "port": "AUX 1",
+   "polarity": "L",
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 013 - p1 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "28",
+   "ref": "P1-28",
+   "also": "27",
+   "same_row": null,
+   "signal": "AUX 1 LEFT BUS",
+   "kind": "bus",
+   "port": "AUX 1",
+   "polarity": "L",
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 013 - p1 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "29",
+   "ref": "P1-29",
+   "also": "30",
+   "same_row": null,
+   "signal": "SOLO LEFT BUS",
+   "kind": "bus",
+   "port": "SOLO",
+   "polarity": "L",
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 013 - p1 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "30",
+   "ref": "P1-30",
+   "also": "29",
+   "same_row": null,
+   "signal": "SOLO LEFT BUS",
+   "kind": "bus",
+   "port": "SOLO",
+   "polarity": "L",
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 013 - p1 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "31",
+   "ref": "P1-31",
+   "also": "32",
+   "same_row": null,
+   "signal": "SOLO RIGHT BUS",
+   "kind": "bus",
+   "port": "SOLO",
+   "polarity": "R",
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 013 - p1 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "32",
+   "ref": "P1-32",
+   "also": "31",
+   "same_row": null,
+   "signal": "SOLO RIGHT BUS",
+   "kind": "bus",
+   "port": "SOLO",
+   "polarity": "R",
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 013 - p1 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "33",
+   "ref": "P1-33",
+   "also": "34",
+   "same_row": null,
+   "signal": "SHIELD",
+   "kind": "shield",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 013 - p1 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "34",
+   "ref": "P1-34",
+   "also": "33",
+   "same_row": null,
+   "signal": "SHIELD",
+   "kind": "shield",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 013 - p1 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "35",
+   "ref": "P1-35",
+   "also": "36",
+   "same_row": null,
+   "signal": "SHIELD",
+   "kind": "shield",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 013 - p1 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "36",
+   "ref": "P1-36",
+   "also": "35",
+   "same_row": null,
+   "signal": "SHIELD",
+   "kind": "shield",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 013 - p1 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "37",
+   "ref": "P1-37",
+   "also": "38",
+   "same_row": null,
+   "signal": "SUMMING INPUT LEFT",
+   "kind": "in",
+   "port": "SUMMING INPUT",
+   "polarity": "L",
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 013 - p1 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "38",
+   "ref": "P1-38",
+   "also": "37",
+   "same_row": null,
+   "signal": "SUMMING INPUT LEFT",
+   "kind": "in",
+   "port": "SUMMING INPUT",
+   "polarity": "L",
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 013 - p1 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "39",
+   "ref": "P1-39",
+   "also": "40",
+   "same_row": null,
+   "signal": "SUMMING INPUT RIGHT",
+   "kind": "in",
+   "port": "SUMMING INPUT",
+   "polarity": "R",
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 013 - p1 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "40",
+   "ref": "P1-40",
+   "also": "39",
+   "same_row": null,
+   "signal": "SUMMING INPUT RIGHT",
+   "kind": "in",
+   "port": "SUMMING INPUT",
+   "polarity": "R",
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 013 - p1 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "41",
+   "ref": "P1-41",
+   "also": "42",
+   "same_row": null,
+   "signal": "SHIELD",
+   "kind": "shield",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 013 - p1 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "42",
+   "ref": "P1-42",
+   "also": "41",
+   "same_row": null,
+   "signal": "SHIELD",
+   "kind": "shield",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 013 - p1 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "43",
+   "ref": "P1-43",
+   "also": "44",
+   "same_row": null,
+   "signal": "SHIELD",
+   "kind": "shield",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 013 - p1 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "44",
+   "ref": "P1-44",
+   "also": "43",
+   "same_row": null,
+   "signal": "SHIELD",
+   "kind": "shield",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 013 - p1 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "45",
+   "ref": "P1-45",
+   "also": "46",
+   "same_row": null,
+   "signal": "INSERT OUT LEFT",
+   "kind": "insert_send",
+   "port": "INSERT OUT",
+   "polarity": "L",
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 013 - p1 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "46",
+   "ref": "P1-46",
+   "also": "45",
+   "same_row": null,
+   "signal": "INSERT OUT LEFT",
+   "kind": "insert_send",
+   "port": "INSERT OUT",
+   "polarity": "L",
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 013 - p1 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "47",
+   "ref": "P1-47",
+   "also": "48",
+   "same_row": null,
+   "signal": "INSERT OUT RIGHT",
+   "kind": "insert_send",
+   "port": "INSERT OUT",
+   "polarity": "R",
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 013 - p1 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "48",
+   "ref": "P1-48",
+   "also": "47",
+   "same_row": null,
+   "signal": "INSERT OUT RIGHT",
+   "kind": "insert_send",
+   "port": "INSERT OUT",
+   "polarity": "R",
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 013 - p1 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "49",
+   "ref": "P1-49",
+   "also": "50",
+   "same_row": null,
+   "signal": "INSERT PREFADE LEFT",
+   "kind": "out",
+   "port": "INSERT PREFADE",
+   "polarity": "L",
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 013 - p1 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "50",
+   "ref": "P1-50",
+   "also": "49",
+   "same_row": null,
+   "signal": "INSERT PREFADE LEFT",
+   "kind": "out",
+   "port": "INSERT PREFADE",
+   "polarity": "L",
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 013 - p1 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "51",
+   "ref": "P1-51",
+   "also": "52",
+   "same_row": null,
+   "signal": "INSERT PREFADE RIGHT",
+   "kind": "out",
+   "port": "INSERT PREFADE",
+   "polarity": "R",
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 013 - p1 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "52",
+   "ref": "P1-52",
+   "also": "51",
+   "same_row": null,
+   "signal": "INSERT PREFADE RIGHT",
+   "kind": "out",
+   "port": "INSERT PREFADE",
+   "polarity": "R",
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 013 - p1 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "53",
+   "ref": "P1-53",
+   "also": "54",
+   "same_row": null,
+   "signal": "INSERT IN LEFT",
+   "kind": "insert_return",
+   "port": "INSERT IN",
+   "polarity": "L",
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 013 - p1 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "54",
+   "ref": "P1-54",
+   "also": "53",
+   "same_row": null,
+   "signal": "INSERT IN LEFT",
+   "kind": "insert_return",
+   "port": "INSERT IN",
+   "polarity": "L",
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 013 - p1 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "55",
+   "ref": "P1-55",
+   "also": "56",
+   "same_row": null,
+   "signal": "INSERT IN RIGHT",
+   "kind": "insert_return",
+   "port": "INSERT IN",
+   "polarity": "R",
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 013 - p1 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "56",
+   "ref": "P1-56",
+   "also": "55",
+   "same_row": null,
+   "signal": "INSERT IN RIGHT",
+   "kind": "insert_return",
+   "port": "INSERT IN",
+   "polarity": "R",
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 013 - p1 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "1",
+   "ref": "P2-1",
+   "also": "A",
+   "same_row": null,
+   "signal": "MONO DIRECT OUT",
+   "kind": "out",
+   "port": "MONO DIR OUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 014 - p2 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "2",
+   "ref": "P2-2",
+   "also": "B",
+   "same_row": null,
+   "signal": "MONO METER OUT",
+   "kind": "out",
+   "port": "MONO METER OUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 014 - p2 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "3",
+   "ref": "P2-3",
+   "also": "C",
+   "same_row": null,
+   "signal": "LEFT DIRECT OUT",
+   "kind": "out",
+   "port": "LEFT DIR OUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 014 - p2 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "4",
+   "ref": "P2-4",
+   "also": "D",
+   "same_row": null,
+   "signal": "LEFT METER OUT",
+   "kind": "out",
+   "port": "LEFT METER OUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 014 - p2 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "5",
+   "ref": "P2-5",
+   "also": "E",
+   "same_row": null,
+   "signal": "RIGHT DIRECT OUT",
+   "kind": "out",
+   "port": "RIGHT DIR OUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 014 - p2 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "6",
+   "ref": "P2-6",
+   "also": "F",
+   "same_row": null,
+   "signal": "RIGHT METER OUT",
+   "kind": "out",
+   "port": "RIGHT METER OUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 014 - p2 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "7",
+   "ref": "P2-7",
+   "also": "H",
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 014 - p2 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "8",
+   "ref": "P2-8",
+   "also": "J",
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 014 - p2 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "9",
+   "ref": "P2-9",
+   "also": "K",
+   "same_row": null,
+   "signal": "SHIELD",
+   "kind": "shield",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 014 - p2 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "10",
+   "ref": "P2-10",
+   "also": "L",
+   "same_row": null,
+   "signal": "SHIELD",
+   "kind": "shield",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 014 - p2 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "11",
+   "ref": "P2-11",
+   "also": "M",
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 014 - p2 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "12",
+   "ref": "P2-12",
+   "also": "N",
+   "same_row": null,
+   "signal": "RD/NWR",
+   "kind": "control_in",
+   "port": "RD/NWR",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 014 - p2 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "13",
+   "ref": "P2-13",
+   "also": "P",
+   "same_row": null,
+   "signal": "DATA BUS D0",
+   "kind": "bus",
+   "port": "DATA BUS D0",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 014 - p2 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "14",
+   "ref": "P2-14",
+   "also": "R",
+   "same_row": null,
+   "signal": "DATA BUS D2",
+   "kind": "bus",
+   "port": "DATA BUS D2",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 014 - p2 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "15",
+   "ref": "P2-15",
+   "also": "S",
+   "same_row": null,
+   "signal": "DATA BUS D4",
+   "kind": "bus",
+   "port": "DATA BUS D4",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 014 - p2 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "16",
+   "ref": "P2-16",
+   "also": "T",
+   "same_row": null,
+   "signal": "DATA BUS D6",
+   "kind": "bus",
+   "port": "DATA BUS D6",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 014 - p2 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "17",
+   "ref": "P2-17",
+   "also": "U",
+   "same_row": null,
+   "signal": "ATTENUATOR SENSE",
+   "kind": "other",
+   "port": "ATTENUATOR SENSE",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 014 - p2 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "18",
+   "ref": "P2-18",
+   "also": "V",
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 014 - p2 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "19",
+   "ref": "P2-19",
+   "also": "W",
+   "same_row": null,
+   "signal": "-25 V",
+   "kind": "power",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 014 - p2 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "20",
+   "ref": "P2-20",
+   "also": "X",
+   "same_row": null,
+   "signal": "25 V COMMON",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 014 - p2 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "21",
+   "ref": "P2-21",
+   "also": "Y",
+   "same_row": null,
+   "signal": "+25 V",
+   "kind": "power",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 014 - p2 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "22",
+   "ref": "P2-22",
+   "also": "Z",
+   "same_row": null,
+   "signal": "CHASSIS",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 014 - p2 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "A",
+   "ref": "P2-A",
+   "also": "1",
+   "same_row": null,
+   "signal": "MONO DIRECT OUT",
+   "kind": "out",
+   "port": "MONO DIR OUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 014 - p2 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "B",
+   "ref": "P2-B",
+   "also": "2",
+   "same_row": null,
+   "signal": "MONO METER OUT",
+   "kind": "out",
+   "port": "MONO METER OUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 014 - p2 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "C",
+   "ref": "P2-C",
+   "also": "3",
+   "same_row": null,
+   "signal": "LEFT DIRECT OUT",
+   "kind": "out",
+   "port": "LEFT DIR OUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 014 - p2 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "D",
+   "ref": "P2-D",
+   "also": "4",
+   "same_row": null,
+   "signal": "LEFT METER OUT",
+   "kind": "out",
+   "port": "LEFT METER OUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 014 - p2 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "E",
+   "ref": "P2-E",
+   "also": "5",
+   "same_row": null,
+   "signal": "RIGHT DIRECT OUT",
+   "kind": "out",
+   "port": "RIGHT DIR OUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 014 - p2 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "F",
+   "ref": "P2-F",
+   "also": "6",
+   "same_row": null,
+   "signal": "RIGHT METER OUT",
+   "kind": "out",
+   "port": "RIGHT METER OUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 014 - p2 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "H",
+   "ref": "P2-H",
+   "also": "7",
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 014 - p2 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "J",
+   "ref": "P2-J",
+   "also": "8",
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 014 - p2 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "K",
+   "ref": "P2-K",
+   "also": "9",
+   "same_row": null,
+   "signal": "SHIELD",
+   "kind": "shield",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 014 - p2 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "L",
+   "ref": "P2-L",
+   "also": "10",
+   "same_row": null,
+   "signal": "SHIELD",
+   "kind": "shield",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 014 - p2 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "M",
+   "ref": "P2-M",
+   "also": "11",
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 014 - p2 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "N",
+   "ref": "P2-N",
+   "also": "12",
+   "same_row": null,
+   "signal": "NSEL (SELECT, ACTIVE LOW)",
+   "kind": "control_in",
+   "port": "NSEL",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 014 - p2 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "P",
+   "ref": "P2-P",
+   "also": "13",
+   "same_row": null,
+   "signal": "DATA BUS D1",
+   "kind": "bus",
+   "port": "DATA BUS D1",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 014 - p2 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "R",
+   "ref": "P2-R",
+   "also": "14",
+   "same_row": null,
+   "signal": "DATA BUS D3",
+   "kind": "bus",
+   "port": "DATA BUS D3",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 014 - p2 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "S",
+   "ref": "P2-S",
+   "also": "15",
+   "same_row": null,
+   "signal": "DATA BUS D5",
+   "kind": "bus",
+   "port": "DATA BUS D5",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 014 - p2 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "T",
+   "ref": "P2-T",
+   "also": "16",
+   "same_row": null,
+   "signal": "DATA BUS D7",
+   "kind": "bus",
+   "port": "DATA BUS D7",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 014 - p2 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "U",
+   "ref": "P2-U",
+   "also": "17",
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 014 - p2 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "V",
+   "ref": "P2-V",
+   "also": "18",
+   "same_row": null,
+   "signal": "CONTROL COMMON",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 014 - p2 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "W",
+   "ref": "P2-W",
+   "also": "19",
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 014 - p2 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "X",
+   "ref": "P2-X",
+   "also": "20",
+   "same_row": null,
+   "signal": "25 V COMMON",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 014 - p2 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "Y",
+   "ref": "P2-Y",
+   "also": "21",
+   "same_row": null,
+   "signal": "+12 V",
+   "kind": "power",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 014 - p2 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "Z",
+   "ref": "P2-Z",
+   "also": "22",
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M523/PINOUTS/1985 - M523 - ST Series - Stereo Submaster Module - 014 - p2 Connector pinout.pinout.json"
+   ],
+   "sheet": null
+  }
+ ],
+ "ports": [
+  {
+   "name": "M1 MONO",
+   "dir": "bus",
+   "pins": {
+    "unmarked": [
+     "P1-1",
+     "P1-2"
+    ]
+   }
+  },
+  {
+   "name": "M2 MONO",
+   "dir": "bus",
+   "pins": {
+    "unmarked": [
+     "P1-5",
+     "P1-6"
+    ]
+   }
+  },
+  {
+   "name": "M1",
+   "dir": "bus",
+   "pins": {
+    "L": [
+     "P1-9",
+     "P1-10"
+    ],
+    "R": [
+     "P1-11",
+     "P1-12"
+    ]
+   }
+  },
+  {
+   "name": "M2",
+   "dir": "bus",
+   "pins": {
+    "L": [
+     "P1-13",
+     "P1-14"
+    ],
+    "R": [
+     "P1-15",
+     "P1-16"
+    ]
+   }
+  },
+  {
+   "name": "AUX 4",
+   "dir": "bus",
+   "pins": {
+    "unmarked": [
+     "P1-17",
+     "P1-18"
+    ]
+   }
+  },
+  {
+   "name": "AUX 3",
+   "dir": "bus",
+   "pins": {
+    "unmarked": [
+     "P1-19",
+     "P1-20"
+    ]
+   }
+  },
+  {
+   "name": "AUX 2",
+   "dir": "bus",
+   "pins": {
+    "R": [
+     "P1-21",
+     "P1-22"
+    ],
+    "L": [
+     "P1-23",
+     "P1-24"
+    ]
+   }
+  },
+  {
+   "name": "AUX 1",
+   "dir": "bus",
+   "pins": {
+    "R": [
+     "P1-25",
+     "P1-26"
+    ],
+    "L": [
+     "P1-27",
+     "P1-28"
+    ]
+   }
+  },
+  {
+   "name": "SOLO",
+   "dir": "bus",
+   "pins": {
+    "L": [
+     "P1-29",
+     "P1-30"
+    ],
+    "R": [
+     "P1-31",
+     "P1-32"
+    ]
+   }
+  },
+  {
+   "name": "SUMMING INPUT",
+   "dir": "in",
+   "pins": {
+    "L": [
+     "P1-37",
+     "P1-38"
+    ],
+    "R": [
+     "P1-39",
+     "P1-40"
+    ]
+   }
+  },
+  {
+   "name": "INSERT OUT",
+   "dir": "insert_send",
+   "pins": {
+    "L": [
+     "P1-45",
+     "P1-46"
+    ],
+    "R": [
+     "P1-47",
+     "P1-48"
+    ]
+   }
+  },
+  {
+   "name": "INSERT PREFADE",
+   "dir": "out",
+   "pins": {
+    "L": [
+     "P1-49",
+     "P1-50"
+    ],
+    "R": [
+     "P1-51",
+     "P1-52"
+    ]
+   }
+  },
+  {
+   "name": "INSERT IN",
+   "dir": "insert_return",
+   "pins": {
+    "L": [
+     "P1-53",
+     "P1-54"
+    ],
+    "R": [
+     "P1-55",
+     "P1-56"
+    ]
+   }
+  },
+  {
+   "name": "MONO DIR OUT",
+   "dir": "out",
+   "pins": {
+    "unmarked": [
+     "P2-A",
+     "P2-1"
+    ]
+   }
+  },
+  {
+   "name": "MONO METER OUT",
+   "dir": "out",
+   "pins": {
+    "unmarked": [
+     "P2-B",
+     "P2-2"
+    ]
+   }
+  },
+  {
+   "name": "LEFT DIR OUT",
+   "dir": "out",
+   "pins": {
+    "unmarked": [
+     "P2-C",
+     "P2-3"
+    ]
+   }
+  },
+  {
+   "name": "LEFT METER OUT",
+   "dir": "out",
+   "pins": {
+    "unmarked": [
+     "P2-D",
+     "P2-4"
+    ]
+   }
+  },
+  {
+   "name": "RIGHT DIR OUT",
+   "dir": "out",
+   "pins": {
+    "unmarked": [
+     "P2-E",
+     "P2-5"
+    ]
+   }
+  },
+  {
+   "name": "RIGHT METER OUT",
+   "dir": "out",
+   "pins": {
+    "unmarked": [
+     "P2-F",
+     "P2-6"
+    ]
+   }
+  },
+  {
+   "name": "NSEL",
+   "dir": "control_in",
+   "pins": {
+    "unmarked": "P2-N"
+   }
+  },
+  {
+   "name": "RD/NWR",
+   "dir": "control_in",
+   "pins": {
+    "unmarked": "P2-12"
+   }
+  },
+  {
+   "name": "DATA BUS D1",
+   "dir": "bidir",
+   "pins": {
+    "unmarked": "P2-P"
+   }
+  },
+  {
+   "name": "DATA BUS D0",
+   "dir": "bidir",
+   "pins": {
+    "unmarked": "P2-13"
+   }
+  },
+  {
+   "name": "DATA BUS D3",
+   "dir": "bidir",
+   "pins": {
+    "unmarked": "P2-R"
+   }
+  },
+  {
+   "name": "DATA BUS D2",
+   "dir": "bidir",
+   "pins": {
+    "unmarked": "P2-14"
+   }
+  },
+  {
+   "name": "DATA BUS D5",
+   "dir": "bidir",
+   "pins": {
+    "unmarked": "P2-S"
+   }
+  },
+  {
+   "name": "DATA BUS D4",
+   "dir": "bidir",
+   "pins": {
+    "unmarked": "P2-15"
+   }
+  },
+  {
+   "name": "DATA BUS D7",
+   "dir": "bidir",
+   "pins": {
+    "unmarked": "P2-T"
+   }
+  },
+  {
+   "name": "DATA BUS D6",
+   "dir": "bidir",
+   "pins": {
+    "unmarked": "P2-16"
+   }
+  },
+  {
+   "name": "ATTENUATOR SENSE",
+   "dir": "bidir",
+   "pins": {
+    "unmarked": "P2-17"
+   }
+  }
+ ],
+ "inserts": [
+  {
+   "name": "INSERT",
+   "send": "INSERT OUT",
+   "return": "INSERT IN",
+   "normalled": null,
+   "note": "Stereo: INSERT OUT L 46/45, R 48/47; INSERT IN L 54/53, R 56/55. Normalling not shown."
   }
  ],
  "straps": [],
- "power": [],
- "sources": [
-  "Modules/SUMMING/M523/MANUALS/1985 - M523 - ST Series - Stereo Submaster Module - 035 - SA14-087 Output Amp.jpg",
-  "Modules/SUMMING/M523/SCHEMATICS/1985 - M523 - 523-06-001 - STEREO SUBMASTER MODULE COMPONENT LAYOUT.jpg",
-  "Modules/SUMMING/M523/SCHEMATICS/1985 - M523 - B 523-06-001 - M523 STEREO SUBMASTER MODULE - COMPONENT LAYOUT.jpg",
-  "Modules/SUMMING/M523/SCHEMATICS/1985 - M523 - ST Series - Stereo Submaster Module - 026 - SA14-077 Control Assembly - Component Layout.jpg"
+ "conflicts": [],
+ "to_check": [
+  {
+   "what": "insert guessed",
+   "pin": null,
+   "detail": "INSERT PREFADE L/R is a third insert-labelled point, recorded as an output (kind out) because the drawing does not say whether it is a pre-fade send or a second return. (M523: 1985 - M523 - ST Series - Stereo Submaster Module - 013 - p1 Connector pinout.jpg)"
+  }
  ]
 }

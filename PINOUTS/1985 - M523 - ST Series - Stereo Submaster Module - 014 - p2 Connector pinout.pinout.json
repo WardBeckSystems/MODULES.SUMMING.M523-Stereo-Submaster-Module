@@ -1,0 +1,616 @@
+{
+  "schema": "wbs-pinout/1",
+  "picture": "1985 - M523 - ST Series - Stereo Submaster Module - 014 - p2 Connector pinout.jpg",
+  "module": "M523",
+  "applies_to": [
+    "M523"
+  ],
+  "pinout": true,
+  "drawing": {
+    "number": null,
+    "title": "P2 CONNECTOR LAYOUT M523 SUBMASTER MODULE",
+    "date": null,
+    "issue": null,
+    "drawn": null
+  },
+  "connectors": [
+    {
+      "name": "P2",
+      "kind": "edge",
+      "contacts": 44,
+      "rows": "A-Z opposite 1-22",
+      "view": null,
+      "part": null
+    }
+  ],
+  "pins": [
+    {
+      "connector": "P2",
+      "pin": "A",
+      "also": "1",
+      "as_drawn": "MONO OUTPUTS DIR",
+      "signal": "MONO DIRECT OUT",
+      "kind": "out",
+      "port": "MONO DIR OUT",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "1",
+      "also": "A",
+      "as_drawn": "MONO OUTPUTS DIR",
+      "signal": "MONO DIRECT OUT",
+      "kind": "out",
+      "port": "MONO DIR OUT",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "B",
+      "also": "2",
+      "as_drawn": "MONO OUTPUTS METER",
+      "signal": "MONO METER OUT",
+      "kind": "out",
+      "port": "MONO METER OUT",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "2",
+      "also": "B",
+      "as_drawn": "MONO OUTPUTS METER",
+      "signal": "MONO METER OUT",
+      "kind": "out",
+      "port": "MONO METER OUT",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "C",
+      "also": "3",
+      "as_drawn": "LEFT OUTPUTS DIR",
+      "signal": "LEFT DIRECT OUT",
+      "kind": "out",
+      "port": "LEFT DIR OUT",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "3",
+      "also": "C",
+      "as_drawn": "LEFT OUTPUTS DIR",
+      "signal": "LEFT DIRECT OUT",
+      "kind": "out",
+      "port": "LEFT DIR OUT",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "D",
+      "also": "4",
+      "as_drawn": "LEFT OUTPUTS METER",
+      "signal": "LEFT METER OUT",
+      "kind": "out",
+      "port": "LEFT METER OUT",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "4",
+      "also": "D",
+      "as_drawn": "LEFT OUTPUTS METER",
+      "signal": "LEFT METER OUT",
+      "kind": "out",
+      "port": "LEFT METER OUT",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "E",
+      "also": "5",
+      "as_drawn": "RIGHT OUTPUTS DIR",
+      "signal": "RIGHT DIRECT OUT",
+      "kind": "out",
+      "port": "RIGHT DIR OUT",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "5",
+      "also": "E",
+      "as_drawn": "RIGHT OUTPUTS DIR",
+      "signal": "RIGHT DIRECT OUT",
+      "kind": "out",
+      "port": "RIGHT DIR OUT",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "F",
+      "also": "6",
+      "as_drawn": "RIGHT OUTPUTS METER",
+      "signal": "RIGHT METER OUT",
+      "kind": "out",
+      "port": "RIGHT METER OUT",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "6",
+      "also": "F",
+      "as_drawn": "RIGHT OUTPUTS METER",
+      "signal": "RIGHT METER OUT",
+      "kind": "out",
+      "port": "RIGHT METER OUT",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "H",
+      "also": "7",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "7",
+      "also": "H",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "J",
+      "also": "8",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "8",
+      "also": "J",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "K",
+      "also": "9",
+      "as_drawn": "SHIELD",
+      "signal": "SHIELD",
+      "kind": "shield",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "9",
+      "also": "K",
+      "as_drawn": "SHIELD",
+      "signal": "SHIELD",
+      "kind": "shield",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "L",
+      "also": "10",
+      "as_drawn": "SHIELD",
+      "signal": "SHIELD",
+      "kind": "shield",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "10",
+      "also": "L",
+      "as_drawn": "SHIELD",
+      "signal": "SHIELD",
+      "kind": "shield",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "M",
+      "also": "11",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "11",
+      "also": "M",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "N",
+      "also": "12",
+      "as_drawn": "NSEL",
+      "signal": "NSEL (SELECT, ACTIVE LOW)",
+      "kind": "control_in",
+      "port": "NSEL",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "12",
+      "also": "N",
+      "as_drawn": "RD/NWR",
+      "signal": "RD/NWR",
+      "kind": "control_in",
+      "port": "RD/NWR",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "P",
+      "also": "13",
+      "as_drawn": "DATA BUS 1",
+      "signal": "DATA BUS D1",
+      "kind": "bus",
+      "port": "DATA BUS D1",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "13",
+      "also": "P",
+      "as_drawn": "DATA BUS 0",
+      "signal": "DATA BUS D0",
+      "kind": "bus",
+      "port": "DATA BUS D0",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "R",
+      "also": "14",
+      "as_drawn": "DATA BUS 3",
+      "signal": "DATA BUS D3",
+      "kind": "bus",
+      "port": "DATA BUS D3",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "14",
+      "also": "R",
+      "as_drawn": "DATA BUS 2",
+      "signal": "DATA BUS D2",
+      "kind": "bus",
+      "port": "DATA BUS D2",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "S",
+      "also": "15",
+      "as_drawn": "DATA BUS 5",
+      "signal": "DATA BUS D5",
+      "kind": "bus",
+      "port": "DATA BUS D5",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "15",
+      "also": "S",
+      "as_drawn": "DATA BUS 4",
+      "signal": "DATA BUS D4",
+      "kind": "bus",
+      "port": "DATA BUS D4",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "T",
+      "also": "16",
+      "as_drawn": "DATA BUS 7",
+      "signal": "DATA BUS D7",
+      "kind": "bus",
+      "port": "DATA BUS D7",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "16",
+      "also": "T",
+      "as_drawn": "DATA BUS 6",
+      "signal": "DATA BUS D6",
+      "kind": "bus",
+      "port": "DATA BUS D6",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "U",
+      "also": "17",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "17",
+      "also": "U",
+      "as_drawn": "ATTENUATOR SENSE",
+      "signal": "ATTENUATOR SENSE",
+      "kind": "other",
+      "port": "ATTENUATOR SENSE",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "V",
+      "also": "18",
+      "as_drawn": "CONTROL COM",
+      "signal": "CONTROL COMMON",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "18",
+      "also": "V",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "W",
+      "also": "19",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "19",
+      "also": "W",
+      "as_drawn": "-25V",
+      "signal": "-25 V",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "X",
+      "also": "20",
+      "as_drawn": "25V COM",
+      "signal": "25 V COMMON",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "20",
+      "also": "X",
+      "as_drawn": "25V COM",
+      "signal": "25 V COMMON",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "Y",
+      "also": "21",
+      "as_drawn": "+12V",
+      "signal": "+12 V",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "21",
+      "also": "Y",
+      "as_drawn": "+25V",
+      "signal": "+25 V",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "Z",
+      "also": "22",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "22",
+      "also": "Z",
+      "as_drawn": "CHASSIS",
+      "signal": "CHASSIS",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    }
+  ],
+  "ports": [
+    {
+      "name": "MONO DIR OUT",
+      "dir": "out",
+      "pins": {
+        "unmarked": [
+          "P2-A",
+          "P2-1"
+        ]
+      }
+    },
+    {
+      "name": "MONO METER OUT",
+      "dir": "out",
+      "pins": {
+        "unmarked": [
+          "P2-B",
+          "P2-2"
+        ]
+      }
+    },
+    {
+      "name": "LEFT DIR OUT",
+      "dir": "out",
+      "pins": {
+        "unmarked": [
+          "P2-C",
+          "P2-3"
+        ]
+      }
+    },
+    {
+      "name": "LEFT METER OUT",
+      "dir": "out",
+      "pins": {
+        "unmarked": [
+          "P2-D",
+          "P2-4"
+        ]
+      }
+    },
+    {
+      "name": "RIGHT DIR OUT",
+      "dir": "out",
+      "pins": {
+        "unmarked": [
+          "P2-E",
+          "P2-5"
+        ]
+      }
+    },
+    {
+      "name": "RIGHT METER OUT",
+      "dir": "out",
+      "pins": {
+        "unmarked": [
+          "P2-F",
+          "P2-6"
+        ]
+      }
+    },
+    {
+      "name": "NSEL",
+      "dir": "control_in",
+      "pins": {
+        "unmarked": "P2-N"
+      }
+    },
+    {
+      "name": "RD/NWR",
+      "dir": "control_in",
+      "pins": {
+        "unmarked": "P2-12"
+      }
+    },
+    {
+      "name": "DATA BUS D1",
+      "dir": "bidir",
+      "pins": {
+        "unmarked": "P2-P"
+      }
+    },
+    {
+      "name": "DATA BUS D0",
+      "dir": "bidir",
+      "pins": {
+        "unmarked": "P2-13"
+      }
+    },
+    {
+      "name": "DATA BUS D3",
+      "dir": "bidir",
+      "pins": {
+        "unmarked": "P2-R"
+      }
+    },
+    {
+      "name": "DATA BUS D2",
+      "dir": "bidir",
+      "pins": {
+        "unmarked": "P2-14"
+      }
+    },
+    {
+      "name": "DATA BUS D5",
+      "dir": "bidir",
+      "pins": {
+        "unmarked": "P2-S"
+      }
+    },
+    {
+      "name": "DATA BUS D4",
+      "dir": "bidir",
+      "pins": {
+        "unmarked": "P2-15"
+      }
+    },
+    {
+      "name": "DATA BUS D7",
+      "dir": "bidir",
+      "pins": {
+        "unmarked": "P2-T"
+      }
+    },
+    {
+      "name": "DATA BUS D6",
+      "dir": "bidir",
+      "pins": {
+        "unmarked": "P2-16"
+      }
+    },
+    {
+      "name": "ATTENUATOR SENSE",
+      "dir": "bidir",
+      "pins": {
+        "unmarked": "P2-17"
+      }
+    }
+  ],
+  "inserts": [],
+  "straps": [],
+  "unread": [
+    "No drawing number, date or drawn-by on the page",
+    "View not stated",
+    "Direction of ATTENUATOR SENSE not stated"
+  ],
+  "confidence": "high",
+  "notes": "Letter and number contacts each labelled on their own side; every contact is its own entry (also = opposite contact). DIR / METER rows are bracketed MONO OUTPUTS, LEFT OUTPUTS, RIGHT OUTPUTS on both sides. DATA BUS bits: P/R/S/T = 1/3/5/7, 13-16 = 0/2/4/6 (8-bit control data bus, direction not drawn). Y = +12V, 21 = +25V as drawn. No inserts on P2. Page 6-2. Legend NC/IC."
+}

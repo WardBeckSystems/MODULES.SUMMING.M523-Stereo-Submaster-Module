@@ -1,0 +1,773 @@
+{
+  "schema": "wbs-pinout/1",
+  "picture": "1985 - M523 - ST Series - Stereo Submaster Module - 013 - p1 Connector pinout.jpg",
+  "module": "M523",
+  "applies_to": [
+    "M523"
+  ],
+  "pinout": true,
+  "drawing": {
+    "number": null,
+    "title": "P1 CONNECTOR LAYOUT M523 SUBMASTER MODULE",
+    "date": null,
+    "issue": null,
+    "drawn": null
+  },
+  "connectors": [
+    {
+      "name": "P1",
+      "kind": "edge",
+      "contacts": 56,
+      "rows": "1-56, odd numbers on one side opposite even numbers (2|1 ... 56|55)",
+      "view": null,
+      "part": null
+    }
+  ],
+  "pins": [
+    {
+      "connector": "P1",
+      "pin": "1",
+      "also": "2",
+      "as_drawn": "M1 MONO",
+      "signal": "M1 MONO BUS",
+      "kind": "bus",
+      "port": "M1 MONO",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "2",
+      "also": "1",
+      "as_drawn": "M1 MONO",
+      "signal": "M1 MONO BUS",
+      "kind": "bus",
+      "port": "M1 MONO",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "3",
+      "also": "4",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "4",
+      "also": "3",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "5",
+      "also": "6",
+      "as_drawn": "M2 MONO",
+      "signal": "M2 MONO BUS",
+      "kind": "bus",
+      "port": "M2 MONO",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "6",
+      "also": "5",
+      "as_drawn": "M2 MONO",
+      "signal": "M2 MONO BUS",
+      "kind": "bus",
+      "port": "M2 MONO",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "7",
+      "also": "8",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "8",
+      "also": "7",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "9",
+      "also": "10",
+      "as_drawn": "M1 LEFT",
+      "signal": "M1 LEFT BUS",
+      "kind": "bus",
+      "port": "M1",
+      "polarity": "L"
+    },
+    {
+      "connector": "P1",
+      "pin": "10",
+      "also": "9",
+      "as_drawn": "M1 LEFT",
+      "signal": "M1 LEFT BUS",
+      "kind": "bus",
+      "port": "M1",
+      "polarity": "L"
+    },
+    {
+      "connector": "P1",
+      "pin": "11",
+      "also": "12",
+      "as_drawn": "M1 RIGHT",
+      "signal": "M1 RIGHT BUS",
+      "kind": "bus",
+      "port": "M1",
+      "polarity": "R"
+    },
+    {
+      "connector": "P1",
+      "pin": "12",
+      "also": "11",
+      "as_drawn": "M1 RIGHT",
+      "signal": "M1 RIGHT BUS",
+      "kind": "bus",
+      "port": "M1",
+      "polarity": "R"
+    },
+    {
+      "connector": "P1",
+      "pin": "13",
+      "also": "14",
+      "as_drawn": "M2 LEFT",
+      "signal": "M2 LEFT BUS",
+      "kind": "bus",
+      "port": "M2",
+      "polarity": "L"
+    },
+    {
+      "connector": "P1",
+      "pin": "14",
+      "also": "13",
+      "as_drawn": "M2 LEFT",
+      "signal": "M2 LEFT BUS",
+      "kind": "bus",
+      "port": "M2",
+      "polarity": "L"
+    },
+    {
+      "connector": "P1",
+      "pin": "15",
+      "also": "16",
+      "as_drawn": "M2 RIGHT",
+      "signal": "M2 RIGHT BUS",
+      "kind": "bus",
+      "port": "M2",
+      "polarity": "R"
+    },
+    {
+      "connector": "P1",
+      "pin": "16",
+      "also": "15",
+      "as_drawn": "M2 RIGHT",
+      "signal": "M2 RIGHT BUS",
+      "kind": "bus",
+      "port": "M2",
+      "polarity": "R"
+    },
+    {
+      "connector": "P1",
+      "pin": "17",
+      "also": "18",
+      "as_drawn": "AUX 4",
+      "signal": "AUX 4 BUS",
+      "kind": "bus",
+      "port": "AUX 4",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "18",
+      "also": "17",
+      "as_drawn": "AUX 4",
+      "signal": "AUX 4 BUS",
+      "kind": "bus",
+      "port": "AUX 4",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "19",
+      "also": "20",
+      "as_drawn": "AUX 3",
+      "signal": "AUX 3 BUS",
+      "kind": "bus",
+      "port": "AUX 3",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "20",
+      "also": "19",
+      "as_drawn": "AUX 3",
+      "signal": "AUX 3 BUS",
+      "kind": "bus",
+      "port": "AUX 3",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "21",
+      "also": "22",
+      "as_drawn": "AUX 2 RIGHT",
+      "signal": "AUX 2 RIGHT BUS",
+      "kind": "bus",
+      "port": "AUX 2",
+      "polarity": "R"
+    },
+    {
+      "connector": "P1",
+      "pin": "22",
+      "also": "21",
+      "as_drawn": "AUX 2 RIGHT",
+      "signal": "AUX 2 RIGHT BUS",
+      "kind": "bus",
+      "port": "AUX 2",
+      "polarity": "R"
+    },
+    {
+      "connector": "P1",
+      "pin": "23",
+      "also": "24",
+      "as_drawn": "AUX 2 LEFT",
+      "signal": "AUX 2 LEFT BUS",
+      "kind": "bus",
+      "port": "AUX 2",
+      "polarity": "L"
+    },
+    {
+      "connector": "P1",
+      "pin": "24",
+      "also": "23",
+      "as_drawn": "AUX 2 LEFT",
+      "signal": "AUX 2 LEFT BUS",
+      "kind": "bus",
+      "port": "AUX 2",
+      "polarity": "L"
+    },
+    {
+      "connector": "P1",
+      "pin": "25",
+      "also": "26",
+      "as_drawn": "AUX 1 RIGHT",
+      "signal": "AUX 1 RIGHT BUS",
+      "kind": "bus",
+      "port": "AUX 1",
+      "polarity": "R"
+    },
+    {
+      "connector": "P1",
+      "pin": "26",
+      "also": "25",
+      "as_drawn": "AUX 1 RIGHT",
+      "signal": "AUX 1 RIGHT BUS",
+      "kind": "bus",
+      "port": "AUX 1",
+      "polarity": "R"
+    },
+    {
+      "connector": "P1",
+      "pin": "27",
+      "also": "28",
+      "as_drawn": "AUX 1 LEFT",
+      "signal": "AUX 1 LEFT BUS",
+      "kind": "bus",
+      "port": "AUX 1",
+      "polarity": "L"
+    },
+    {
+      "connector": "P1",
+      "pin": "28",
+      "also": "27",
+      "as_drawn": "AUX 1 LEFT",
+      "signal": "AUX 1 LEFT BUS",
+      "kind": "bus",
+      "port": "AUX 1",
+      "polarity": "L"
+    },
+    {
+      "connector": "P1",
+      "pin": "29",
+      "also": "30",
+      "as_drawn": "SOLO LEFT",
+      "signal": "SOLO LEFT BUS",
+      "kind": "bus",
+      "port": "SOLO",
+      "polarity": "L"
+    },
+    {
+      "connector": "P1",
+      "pin": "30",
+      "also": "29",
+      "as_drawn": "SOLO LEFT",
+      "signal": "SOLO LEFT BUS",
+      "kind": "bus",
+      "port": "SOLO",
+      "polarity": "L"
+    },
+    {
+      "connector": "P1",
+      "pin": "31",
+      "also": "32",
+      "as_drawn": "SOLO RIGHT",
+      "signal": "SOLO RIGHT BUS",
+      "kind": "bus",
+      "port": "SOLO",
+      "polarity": "R"
+    },
+    {
+      "connector": "P1",
+      "pin": "32",
+      "also": "31",
+      "as_drawn": "SOLO RIGHT",
+      "signal": "SOLO RIGHT BUS",
+      "kind": "bus",
+      "port": "SOLO",
+      "polarity": "R"
+    },
+    {
+      "connector": "P1",
+      "pin": "33",
+      "also": "34",
+      "as_drawn": "SHIELD",
+      "signal": "SHIELD",
+      "kind": "shield",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "34",
+      "also": "33",
+      "as_drawn": "SHIELD",
+      "signal": "SHIELD",
+      "kind": "shield",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "35",
+      "also": "36",
+      "as_drawn": "SHIELD",
+      "signal": "SHIELD",
+      "kind": "shield",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "36",
+      "also": "35",
+      "as_drawn": "SHIELD",
+      "signal": "SHIELD",
+      "kind": "shield",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "37",
+      "also": "38",
+      "as_drawn": "SUMMING INPUT LEFT",
+      "signal": "SUMMING INPUT LEFT",
+      "kind": "in",
+      "port": "SUMMING INPUT",
+      "polarity": "L"
+    },
+    {
+      "connector": "P1",
+      "pin": "38",
+      "also": "37",
+      "as_drawn": "SUMMING INPUT LEFT",
+      "signal": "SUMMING INPUT LEFT",
+      "kind": "in",
+      "port": "SUMMING INPUT",
+      "polarity": "L"
+    },
+    {
+      "connector": "P1",
+      "pin": "39",
+      "also": "40",
+      "as_drawn": "SUMMING INPUT RIGHT",
+      "signal": "SUMMING INPUT RIGHT",
+      "kind": "in",
+      "port": "SUMMING INPUT",
+      "polarity": "R"
+    },
+    {
+      "connector": "P1",
+      "pin": "40",
+      "also": "39",
+      "as_drawn": "SUMMING INPUT RIGHT",
+      "signal": "SUMMING INPUT RIGHT",
+      "kind": "in",
+      "port": "SUMMING INPUT",
+      "polarity": "R"
+    },
+    {
+      "connector": "P1",
+      "pin": "41",
+      "also": "42",
+      "as_drawn": "SHIELD",
+      "signal": "SHIELD",
+      "kind": "shield",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "42",
+      "also": "41",
+      "as_drawn": "SHIELD",
+      "signal": "SHIELD",
+      "kind": "shield",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "43",
+      "also": "44",
+      "as_drawn": "SHIELD",
+      "signal": "SHIELD",
+      "kind": "shield",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "44",
+      "also": "43",
+      "as_drawn": "SHIELD",
+      "signal": "SHIELD",
+      "kind": "shield",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "45",
+      "also": "46",
+      "as_drawn": "INSERT OUT L",
+      "signal": "INSERT OUT LEFT",
+      "kind": "insert_send",
+      "port": "INSERT OUT",
+      "polarity": "L"
+    },
+    {
+      "connector": "P1",
+      "pin": "46",
+      "also": "45",
+      "as_drawn": "INSERT OUT L",
+      "signal": "INSERT OUT LEFT",
+      "kind": "insert_send",
+      "port": "INSERT OUT",
+      "polarity": "L"
+    },
+    {
+      "connector": "P1",
+      "pin": "47",
+      "also": "48",
+      "as_drawn": "INSERT OUT R",
+      "signal": "INSERT OUT RIGHT",
+      "kind": "insert_send",
+      "port": "INSERT OUT",
+      "polarity": "R"
+    },
+    {
+      "connector": "P1",
+      "pin": "48",
+      "also": "47",
+      "as_drawn": "INSERT OUT R",
+      "signal": "INSERT OUT RIGHT",
+      "kind": "insert_send",
+      "port": "INSERT OUT",
+      "polarity": "R"
+    },
+    {
+      "connector": "P1",
+      "pin": "49",
+      "also": "50",
+      "as_drawn": "INSERT PREFADE L",
+      "signal": "INSERT PREFADE LEFT",
+      "kind": "out",
+      "port": "INSERT PREFADE",
+      "polarity": "L"
+    },
+    {
+      "connector": "P1",
+      "pin": "50",
+      "also": "49",
+      "as_drawn": "INSERT PREFADE L",
+      "signal": "INSERT PREFADE LEFT",
+      "kind": "out",
+      "port": "INSERT PREFADE",
+      "polarity": "L"
+    },
+    {
+      "connector": "P1",
+      "pin": "51",
+      "also": "52",
+      "as_drawn": "INSERT PREFADE R",
+      "signal": "INSERT PREFADE RIGHT",
+      "kind": "out",
+      "port": "INSERT PREFADE",
+      "polarity": "R"
+    },
+    {
+      "connector": "P1",
+      "pin": "52",
+      "also": "51",
+      "as_drawn": "INSERT PREFADE R",
+      "signal": "INSERT PREFADE RIGHT",
+      "kind": "out",
+      "port": "INSERT PREFADE",
+      "polarity": "R"
+    },
+    {
+      "connector": "P1",
+      "pin": "53",
+      "also": "54",
+      "as_drawn": "INSERT IN L",
+      "signal": "INSERT IN LEFT",
+      "kind": "insert_return",
+      "port": "INSERT IN",
+      "polarity": "L"
+    },
+    {
+      "connector": "P1",
+      "pin": "54",
+      "also": "53",
+      "as_drawn": "INSERT IN L",
+      "signal": "INSERT IN LEFT",
+      "kind": "insert_return",
+      "port": "INSERT IN",
+      "polarity": "L"
+    },
+    {
+      "connector": "P1",
+      "pin": "55",
+      "also": "56",
+      "as_drawn": "INSERT IN R",
+      "signal": "INSERT IN RIGHT",
+      "kind": "insert_return",
+      "port": "INSERT IN",
+      "polarity": "R"
+    },
+    {
+      "connector": "P1",
+      "pin": "56",
+      "also": "55",
+      "as_drawn": "INSERT IN R",
+      "signal": "INSERT IN RIGHT",
+      "kind": "insert_return",
+      "port": "INSERT IN",
+      "polarity": "R"
+    }
+  ],
+  "ports": [
+    {
+      "name": "M1 MONO",
+      "dir": "bus",
+      "pins": {
+        "unmarked": [
+          "P1-1",
+          "P1-2"
+        ]
+      }
+    },
+    {
+      "name": "M2 MONO",
+      "dir": "bus",
+      "pins": {
+        "unmarked": [
+          "P1-5",
+          "P1-6"
+        ]
+      }
+    },
+    {
+      "name": "M1",
+      "dir": "bus",
+      "pins": {
+        "L": [
+          "P1-9",
+          "P1-10"
+        ],
+        "R": [
+          "P1-11",
+          "P1-12"
+        ]
+      }
+    },
+    {
+      "name": "M2",
+      "dir": "bus",
+      "pins": {
+        "L": [
+          "P1-13",
+          "P1-14"
+        ],
+        "R": [
+          "P1-15",
+          "P1-16"
+        ]
+      }
+    },
+    {
+      "name": "AUX 4",
+      "dir": "bus",
+      "pins": {
+        "unmarked": [
+          "P1-17",
+          "P1-18"
+        ]
+      }
+    },
+    {
+      "name": "AUX 3",
+      "dir": "bus",
+      "pins": {
+        "unmarked": [
+          "P1-19",
+          "P1-20"
+        ]
+      }
+    },
+    {
+      "name": "AUX 2",
+      "dir": "bus",
+      "pins": {
+        "R": [
+          "P1-21",
+          "P1-22"
+        ],
+        "L": [
+          "P1-23",
+          "P1-24"
+        ]
+      }
+    },
+    {
+      "name": "AUX 1",
+      "dir": "bus",
+      "pins": {
+        "R": [
+          "P1-25",
+          "P1-26"
+        ],
+        "L": [
+          "P1-27",
+          "P1-28"
+        ]
+      }
+    },
+    {
+      "name": "SOLO",
+      "dir": "bus",
+      "pins": {
+        "L": [
+          "P1-29",
+          "P1-30"
+        ],
+        "R": [
+          "P1-31",
+          "P1-32"
+        ]
+      }
+    },
+    {
+      "name": "SUMMING INPUT",
+      "dir": "in",
+      "pins": {
+        "L": [
+          "P1-37",
+          "P1-38"
+        ],
+        "R": [
+          "P1-39",
+          "P1-40"
+        ]
+      }
+    },
+    {
+      "name": "INSERT OUT",
+      "dir": "insert_send",
+      "pins": {
+        "L": [
+          "P1-45",
+          "P1-46"
+        ],
+        "R": [
+          "P1-47",
+          "P1-48"
+        ]
+      }
+    },
+    {
+      "name": "INSERT PREFADE",
+      "dir": "out",
+      "pins": {
+        "L": [
+          "P1-49",
+          "P1-50"
+        ],
+        "R": [
+          "P1-51",
+          "P1-52"
+        ]
+      }
+    },
+    {
+      "name": "INSERT IN",
+      "dir": "insert_return",
+      "pins": {
+        "L": [
+          "P1-53",
+          "P1-54"
+        ],
+        "R": [
+          "P1-55",
+          "P1-56"
+        ]
+      }
+    }
+  ],
+  "inserts": [
+    {
+      "name": "INSERT",
+      "send": "INSERT OUT",
+      "return": "INSERT IN",
+      "normalled": null,
+      "note": "Stereo: INSERT OUT L 46/45, R 48/47; INSERT IN L 54/53, R 56/55. Normalling not shown."
+    }
+  ],
+  "straps": [],
+  "unread": [
+    "No drawing number, date or drawn-by on the page",
+    "View not stated",
+    "What INSERT PREFADE (50/49, 52/51) is for is not explained"
+  ],
+  "confidence": "high",
+  "notes": "Every row has the same words on both sides (even contact left, odd right); each contact is its own entry with also = the opposite contact. Pins 1-32 are bracketed TO MIX BUSES on both sides. INSERT OUT / INSERT IN recorded as the insert pair; INSERT PREFADE L/R is a third insert-labelled point, recorded as an output (kind out) because the drawing does not say whether it is a pre-fade send or a second return. Page 6-1. Legend NC/IC."
+}

@@ -73,21 +73,116 @@ _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and r
 
 ## RTO-144 pinout
 
-20 contacts, 1 contacts (P1), 22 contacts (P2). Read from the module's own documents (no RTO-144 sheet yet). Every contact, with where it was read: [`RTO.json`](RTO.json).
+Read from 2 pinout pictures (each its own `.pinout.json` beside it). Every contact, with where it was read: [`RTO.json`](RTO.json). How a picture becomes this table: [the pinout decision tree](https://github.com/WardBeckSystems/WBSps.ca/blob/main/2026/Engineering/PINOUTS.md).
 
-| Pin | Signal | Kind | Pair | Confidence |
+**To check:**
+
+- insert guessed: INSERT PREFADE L/R is a third insert-labelled point, recorded as an output (kind out) because the drawing does not say whether it is a pre-fade send or a second return. (M523: 1985 - M523 - ST Series - Stereo Submaster Module - 013 - p1 Connector pinout.jpg)
+
+**Inserts:** INSERT: INSERT OUT → INSERT IN
+
+| Pin | Signal | Kind | Port | Confidence |
 |---|---|---|---|---|
-| 1 |  | unread |  | low |
-| 1 |  | unread |  | low |
-| 3 | ISOLATES THE AMPLIFIER OUTPUT FROM CAPACITIVE LO | out |  | medium |
-| 4 | ISOLATES THE AMPLIFIER OUTPUT FROM CAPACITIVE LO | out |  | medium |
-| 7 | MONO CONNECTOR  OUTPUT | out |  | medium |
-| 8 | MONO CONNECTOR  OUTPUT | out |  | medium |
-| 9 | ISOLATES THE AMPLIFIER OUTPUT FROM CAPACITIVE LO | out |  | medium |
-| 10 | ISOLATES THE AMPLIFIER OUTPUT FROM CAPACITIVE LO | out |  | medium |
-| 11 | INPUT TO THIS AMPLIFIER | in |  | medium |
-| 12 | INPUT TO THIS AMPLIFIER | in |  | medium |
-| 22 |  | unread |  | low |
+| P1-1 | M1 MONO BUS | bus | M1 MONO | high |
+| P1-2 | M1 MONO BUS | bus | M1 MONO | high |
+| P1-3 | N/C | nc |  | high |
+| P1-4 | N/C | nc |  | high |
+| P1-5 | M2 MONO BUS | bus | M2 MONO | high |
+| P1-6 | M2 MONO BUS | bus | M2 MONO | high |
+| P1-7 | N/C | nc |  | high |
+| P1-8 | N/C | nc |  | high |
+| P1-9 | M1 LEFT BUS | bus | M1 L | high |
+| P1-10 | M1 LEFT BUS | bus | M1 L | high |
+| P1-11 | M1 RIGHT BUS | bus | M1 R | high |
+| P1-12 | M1 RIGHT BUS | bus | M1 R | high |
+| P1-13 | M2 LEFT BUS | bus | M2 L | high |
+| P1-14 | M2 LEFT BUS | bus | M2 L | high |
+| P1-15 | M2 RIGHT BUS | bus | M2 R | high |
+| P1-16 | M2 RIGHT BUS | bus | M2 R | high |
+| P1-17 | AUX 4 BUS | bus | AUX 4 | high |
+| P1-18 | AUX 4 BUS | bus | AUX 4 | high |
+| P1-19 | AUX 3 BUS | bus | AUX 3 | high |
+| P1-20 | AUX 3 BUS | bus | AUX 3 | high |
+| P1-21 | AUX 2 RIGHT BUS | bus | AUX 2 R | high |
+| P1-22 | AUX 2 RIGHT BUS | bus | AUX 2 R | high |
+| P1-23 | AUX 2 LEFT BUS | bus | AUX 2 L | high |
+| P1-24 | AUX 2 LEFT BUS | bus | AUX 2 L | high |
+| P1-25 | AUX 1 RIGHT BUS | bus | AUX 1 R | high |
+| P1-26 | AUX 1 RIGHT BUS | bus | AUX 1 R | high |
+| P1-27 | AUX 1 LEFT BUS | bus | AUX 1 L | high |
+| P1-28 | AUX 1 LEFT BUS | bus | AUX 1 L | high |
+| P1-29 | SOLO LEFT BUS | bus | SOLO L | high |
+| P1-30 | SOLO LEFT BUS | bus | SOLO L | high |
+| P1-31 | SOLO RIGHT BUS | bus | SOLO R | high |
+| P1-32 | SOLO RIGHT BUS | bus | SOLO R | high |
+| P1-33 | SHIELD | shield |  | high |
+| P1-34 | SHIELD | shield |  | high |
+| P1-35 | SHIELD | shield |  | high |
+| P1-36 | SHIELD | shield |  | high |
+| P1-37 | SUMMING INPUT LEFT | in | SUMMING INPUT L | high |
+| P1-38 | SUMMING INPUT LEFT | in | SUMMING INPUT L | high |
+| P1-39 | SUMMING INPUT RIGHT | in | SUMMING INPUT R | high |
+| P1-40 | SUMMING INPUT RIGHT | in | SUMMING INPUT R | high |
+| P1-41 | SHIELD | shield |  | high |
+| P1-42 | SHIELD | shield |  | high |
+| P1-43 | SHIELD | shield |  | high |
+| P1-44 | SHIELD | shield |  | high |
+| P1-45 | INSERT OUT LEFT | insert_send | INSERT OUT L | high |
+| P1-46 | INSERT OUT LEFT | insert_send | INSERT OUT L | high |
+| P1-47 | INSERT OUT RIGHT | insert_send | INSERT OUT R | high |
+| P1-48 | INSERT OUT RIGHT | insert_send | INSERT OUT R | high |
+| P1-49 | INSERT PREFADE LEFT | out | INSERT PREFADE L | high |
+| P1-50 | INSERT PREFADE LEFT | out | INSERT PREFADE L | high |
+| P1-51 | INSERT PREFADE RIGHT | out | INSERT PREFADE R | high |
+| P1-52 | INSERT PREFADE RIGHT | out | INSERT PREFADE R | high |
+| P1-53 | INSERT IN LEFT | insert_return | INSERT IN L | high |
+| P1-54 | INSERT IN LEFT | insert_return | INSERT IN L | high |
+| P1-55 | INSERT IN RIGHT | insert_return | INSERT IN R | high |
+| P1-56 | INSERT IN RIGHT | insert_return | INSERT IN R | high |
+| P2-1 | MONO DIRECT OUT | out | MONO DIR OUT | high |
+| P2-2 | MONO METER OUT | out | MONO METER OUT | high |
+| P2-3 | LEFT DIRECT OUT | out | LEFT DIR OUT | high |
+| P2-4 | LEFT METER OUT | out | LEFT METER OUT | high |
+| P2-5 | RIGHT DIRECT OUT | out | RIGHT DIR OUT | high |
+| P2-6 | RIGHT METER OUT | out | RIGHT METER OUT | high |
+| P2-7 | N/C | nc |  | high |
+| P2-8 | N/C | nc |  | high |
+| P2-9 | SHIELD | shield |  | high |
+| P2-10 | SHIELD | shield |  | high |
+| P2-11 | N/C | nc |  | high |
+| P2-12 | RD/NWR | control_in | RD/NWR | high |
+| P2-13 | DATA BUS D0 | bus | DATA BUS D0 | high |
+| P2-14 | DATA BUS D2 | bus | DATA BUS D2 | high |
+| P2-15 | DATA BUS D4 | bus | DATA BUS D4 | high |
+| P2-16 | DATA BUS D6 | bus | DATA BUS D6 | high |
+| P2-17 | ATTENUATOR SENSE | other | ATTENUATOR SENSE | high |
+| P2-18 | N/C | nc |  | high |
+| P2-19 | -25 V | power |  | high |
+| P2-20 | 25 V COMMON | ground |  | high |
+| P2-21 | +25 V | power |  | high |
+| P2-22 | CHASSIS | ground |  | high |
+| P2-A | MONO DIRECT OUT | out | MONO DIR OUT | high |
+| P2-B | MONO METER OUT | out | MONO METER OUT | high |
+| P2-C | LEFT DIRECT OUT | out | LEFT DIR OUT | high |
+| P2-D | LEFT METER OUT | out | LEFT METER OUT | high |
+| P2-E | RIGHT DIRECT OUT | out | RIGHT DIR OUT | high |
+| P2-F | RIGHT METER OUT | out | RIGHT METER OUT | high |
+| P2-H | N/C | nc |  | high |
+| P2-J | N/C | nc |  | high |
+| P2-K | SHIELD | shield |  | high |
+| P2-L | SHIELD | shield |  | high |
+| P2-M | N/C | nc |  | high |
+| P2-N | NSEL (SELECT, ACTIVE LOW) | control_in | NSEL | high |
+| P2-P | DATA BUS D1 | bus | DATA BUS D1 | high |
+| P2-R | DATA BUS D3 | bus | DATA BUS D3 | high |
+| P2-S | DATA BUS D5 | bus | DATA BUS D5 | high |
+| P2-T | DATA BUS D7 | bus | DATA BUS D7 | high |
+| P2-U | N/C | nc |  | high |
+| P2-V | CONTROL COMMON | ground |  | high |
+| P2-W | N/C | nc |  | high |
+| P2-X | 25 V COMMON | ground |  | high |
+| P2-Y | +12 V | power |  | high |
+| P2-Z | N/C | nc |  | high |
 
 ## Manuals and documents
 
