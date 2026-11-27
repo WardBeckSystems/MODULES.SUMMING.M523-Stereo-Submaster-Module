@@ -1,0 +1,77 @@
+{
+ "module": "M523",
+ "title": "M523 SUBMASTER MODULE",
+ "source": {
+  "file": "MANUALS/1985 - M523 - ST Series - Stereo Submaster Module - 004.jpg",
+  "page": 1
+ },
+ "ocr_quality": 0.9,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Ambient temperature",
+   "key": "ambient_temperature",
+   "text": "to 60 degrees Celsius_ The submastering functions ior the St series of Stereo Television consoles are found in the M523 Stereo Submaster Module.",
+   "quantities": [
+    {
+     "value": 60,
+     "unit": "degrees Celsius"
+    }
+   ]
+  },
+  {
+   "name": "Dimensions",
+   "key": "dimensions",
+   "text": "1.60\" ide 14.15\" high 6.50\" deep (41 mm 360 mm 165 mm The mixing bus amplifiers are an integral part of this module The outputs from these amplifiers feed the actively balanced insert points, where the insert jackfield and the stereo inline slide mixing attenuator are connected",
+   "quantities": [
+    {
+     "value": 1.6,
+     "unit": "\""
+    },
+    {
+     "value": 14.15,
+     "unit": "\""
+    },
+    {
+     "value": 6.5,
+     "unit": "\""
+    },
+    {
+     "value": 41,
+     "unit": "mm"
+    },
+    {
+     "value": 360,
+     "unit": "mm"
+    },
+    {
+     "value": 165,
+     "unit": "mm"
+    }
+   ]
+  },
+  {
+   "name": "Weight",
+   "key": "weight",
+   "text": "Ibs (1.8 kg). 1 Answer erefadekftekeofincoine mixiov ideenuatorich Thonneess beeweere erefade auxiliary functions of the module as wel| as the mix bus level sensors The module output amplifiers makeup for the insertion loss of the inline slide ixing attenuator and are capable of delivering an output level of +30 dBm (1 wait) into 600 ohm load_ The nomina output level is typically set to +8 dBm. Direct outputs are provided for externa program feeds and mon storing. The outputs from the M523 ia2 3C2 assignment selecio-s in stereo for master and master These selector outputs are through the module' s Balance control The stereo solo takeoff point is after the Balance control as well thus reflecting stereo spectral position in the selected solo function separately derived Mono ou Input is available, both directly at the module connector and via the master mono and master mono bus selectors_ The ST series of consoles have master and master outputs derived separately irom the submaster in both stereo and mono Four Auxiliary outputs are available, each ith separate pre/post fade selector assignment selector and level adjust control Auxiliaries and feed the stereo auxiliary mix buses and and feed the mono auxiliary mix buses _ The Channel On and Solo functions of the M523 Submaster Module are made via solid state FET switches This provides for very reliable and silent Swi thing. The control of these solid state switches maybe done directly through the pushbuttons on the module or remotely through the central microprocessor based control system",
+   "quantities": [
+    {
+     "value": 1.8,
+     "unit": "kg"
+    },
+    {
+     "value": 30,
+     "unit": "dBm"
+    },
+    {
+     "value": 600,
+     "unit": "ohm"
+    },
+    {
+     "value": 8,
+     "unit": "dBm"
+    }
+   ]
+  }
+ ]
+}
