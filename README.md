@@ -49,6 +49,14 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/18HPkhyxLW1f6wjO3ep6i_ePOf6Ba6_Oj/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=18HPkhyxLW1f6wjO3ep6i_ePOf6Ba6_Oj" width="240" alt="1985 - M523 - B 523-04-001 - M523 STEREO SUBMASTER MODULE - MODULE LAYOUT.jpg"></a><br><sub>1985|18 · B 523-04-001 - M523 STEREO SUBMASTER MODULE - MODULE LAYOUT · <a href="MECHANICAL/1985%20-%20M523%20-%20B%20523-04-001%20-%20M523%20STEREO%20SUBMASTER%20MODULE%20-%20MODULE%20LAYOUT%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKY1BkakNsd3JZNVU/view?resourcekey=0-8S-UUmyhXYLRW_EeyyBZ6g" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKY1BkakNsd3JZNVU&resourcekey=0-8S-UUmyhXYLRW_EeyyBZ6g" width="240" alt="19xx - M523 - DOC - 3642-04-003 - ADERS STEREO MASTER FADERS MONO INPUT FADERS.jpg"></a><br><sub>19xx - M523 - DOC - 3642-04-003 - ADERS STEREO MASTER FADERS MONO INPUT FADERS · <a href="MECHANICAL/19xx%20-%20M523%20-%20DOC%20-%203642-04-003%20-%20ADERS%20STEREO%20MASTER%20FADERS%20MONO%20INPUT%20FADERS%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKNE04SVlJOHFBb28/view?resourcekey=0-GuSGF1-wsbyDzzYpjydCIQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKNE04SVlJOHFBb28&resourcekey=0-GuSGF1-wsbyDzzYpjydCIQ" width="240" alt="19xx - M523 - DOC - 523-04-001 - STEREO SUB MODULE.jpg"></a><br><sub>19xx - M523 - DOC - 523-04-001 - STEREO SUB MODULE · <a href="MECHANICAL/19xx%20-%20M523%20-%20DOC%20-%20523-04-001%20-%20STEREO%20SUB%20MODULE%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
+## 3-D model
+
+[`MECHANICAL/M523.stl`](MECHANICAL/M523.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M523)
+
+- **Size:** 41 × 360 mm panel, 165 mm deep, 3.2 mm plate (TECHNICAL DATA: 1.60" ide 14.15" high 6.50" deep (41 mm 360 mm 165 mm The mixing bus amplifiers are an integral part of this module The outputs from these amplifiers feed the a)
+- **From the drawing:** 17 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M523 - front panel.svg`)
+- Made by `tools/module_models.py` (→ `MECHANICAL/M523.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
