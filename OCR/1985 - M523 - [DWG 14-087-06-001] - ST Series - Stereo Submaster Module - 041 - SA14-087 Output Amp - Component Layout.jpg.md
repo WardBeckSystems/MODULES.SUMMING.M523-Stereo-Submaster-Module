@@ -21,7 +21,7 @@ Wiki page: [M523](../../../../PAGES/M523.md)
 - **Words (OCR):** 293 in 222 lines: 14-087 · PN3969 · PN3645 · C61 · 0 ISS · PN3569 · PN645 · ~~Rizagk9 22/25, · 058 · 100/25 · Pz · (011
 - **Title block:** (249, 66)–(420, 93) mm: WBS WARD-BECK sysTEMB
 
-Every curve, box, word and wire group: [1985 - M523 - ST Series - Stereo Submaster Module - 041 - SA14-087 Output Amp - Component Layout (traced).json](../SCHEMATICS/1985%20-%20M523%20-%20ST%20Series%20-%20Stereo%20Submaster%20Module%20-%20041%20-%20SA14-087%20Output%20Amp%20-%20Component%20Layout%20%28traced%29.json) (the CAD file: `1985 - M523 - ST Series - Stereo Submaster Module - 041 - SA14-087 Output Amp - Component Layout (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M523 - [DWG 14-087-06-001] - ST Series - Stereo Submaster Module - 041 - SA14-087 Output Amp - Component Layout (traced).json](../SCHEMATICS/1985%20-%20M523%20-%20%5BDWG%2014-087-06-001%5D%20-%20ST%20Series%20-%20Stereo%20Submaster%20Module%20-%20041%20-%20SA14-087%20Output%20Amp%20-%20Component%20Layout%20%28traced%29.json) (the CAD file: `1985 - M523 - [DWG 14-087-06-001] - ST Series - Stereo Submaster Module - 041 - SA14-087 Output Amp - Component Layout (traced).dxf`).
 
 ## Full text
 
@@ -39,7 +39,7 @@ ISS. 1
 
 ```json
 {
- "file": "Modules/SUMMING/M523/SCHEMATICS/1985 - M523 - ST Series - Stereo Submaster Module - 041 - SA14-087 Output Amp - Component Layout.jpg",
+ "file": "Modules/SUMMING/M523/SCHEMATICS/1985 - M523 - [DWG 14-087-06-001] - ST Series - Stereo Submaster Module - 041 - SA14-087 Output Amp - Component Layout.jpg",
  "sha256": "4cff016c2e9e92ba032cf4b4afc4be7821157c1292a023b30b5df73713009ae7",
  "kind": "module",
  "models": [

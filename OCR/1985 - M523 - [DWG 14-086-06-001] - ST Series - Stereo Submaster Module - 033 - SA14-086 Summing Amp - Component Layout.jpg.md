@@ -21,7 +21,7 @@ Wiki page: [M523](../../../../PAGES/M523.md)
 - **Words (OCR):** 155 in 121 lines: 0. 1/100 0.1/100 R3L !OOK · C46 · 14o · Pz · P1086 · P1086 · C47 IOO00 · 0. 068 · P1086 · 0. 068 · CRZ IN5711 P1086 · CRI
 - **Title block:** (150, 61)–(396, 253) mm: R40 ZK · PI 14-086 · WBS · ISSUE 31 · CANADA · WBS WARD-BECK SYSTEMS
 
-Every curve, box, word and wire group: [1985 - M523 - ST Series - Stereo Submaster Module - 033 - SA14-086 Summing Amp - Component Layout (traced).json](../SCHEMATICS/1985%20-%20M523%20-%20ST%20Series%20-%20Stereo%20Submaster%20Module%20-%20033%20-%20SA14-086%20Summing%20Amp%20-%20Component%20Layout%20%28traced%29.json) (the CAD file: `1985 - M523 - ST Series - Stereo Submaster Module - 033 - SA14-086 Summing Amp - Component Layout (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M523 - [DWG 14-086-06-001] - ST Series - Stereo Submaster Module - 033 - SA14-086 Summing Amp - Component Layout (traced).json](../SCHEMATICS/1985%20-%20M523%20-%20%5BDWG%2014-086-06-001%5D%20-%20ST%20Series%20-%20Stereo%20Submaster%20Module%20-%20033%20-%20SA14-086%20Summing%20Amp%20-%20Component%20Layout%20%28traced%29.json) (the CAD file: `1985 - M523 - [DWG 14-086-06-001] - ST Series - Stereo Submaster Module - 033 - SA14-086 Summing Amp - Component Layout (traced).dxf`).
 
 ## Full text
 
@@ -39,7 +39,7 @@ ISS.1
 
 ```json
 {
- "file": "Modules/SUMMING/M523/SCHEMATICS/1985 - M523 - ST Series - Stereo Submaster Module - 033 - SA14-086 Summing Amp - Component Layout.jpg",
+ "file": "Modules/SUMMING/M523/SCHEMATICS/1985 - M523 - [DWG 14-086-06-001] - ST Series - Stereo Submaster Module - 033 - SA14-086 Summing Amp - Component Layout.jpg",
  "sha256": "45f64bf0fa770b8efc5313ccb57cc9e653ace8307f5fac80ce3ce9ec2b1088b2",
  "kind": "module",
  "models": [
