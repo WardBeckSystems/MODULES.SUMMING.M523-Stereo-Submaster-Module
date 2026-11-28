@@ -1,5 +1,5 @@
 # 19xx - 523-02-001 - STEREO SUBMASTER MODULE SCHEMATIC.jpg
-Wiki page: [M523](../../../../PAGES/M523.md)
+Wiki page: [M523](../)
 
 
 - **Year:** unknown (title block (read by eye))

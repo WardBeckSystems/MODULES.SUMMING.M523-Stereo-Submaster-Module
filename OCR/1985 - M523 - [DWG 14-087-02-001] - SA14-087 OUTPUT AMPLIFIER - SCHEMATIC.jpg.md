@@ -1,5 +1,5 @@
 # 1985 - M523 - B 14-087-02-001 - SA14-087 OUTPUT AMPLIFIER - SCHEMATIC.jpg
-Wiki page: [M523](../../../../PAGES/M523.md)
+Wiki page: [M523](../)
 
 
 - **Year:** 1985 (module estimate (manual_issue))

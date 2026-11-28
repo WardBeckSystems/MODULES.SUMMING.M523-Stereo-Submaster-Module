@@ -1,5 +1,5 @@
 # 1985 - M523 - ST Series - Stereo Submaster Module - 014 - p2 Connector pinout.jpg
-Wiki page: [M523](../../../../PAGES/M523.md)
+Wiki page: [M523](../)
 
 
 - **Year:** 1985 (module estimate (manual_issue))

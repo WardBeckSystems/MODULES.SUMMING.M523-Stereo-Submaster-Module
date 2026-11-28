@@ -1,5 +1,5 @@
 # 1985 - M523 - 523-06-001 - STEREO SUBMASTER MODULE COMPONENT LAYOUT.jpg
-Wiki page: [M523](../../../../PAGES/M523.md)
+Wiki page: [M523](../)
 
 
 - **Year:** 1985 (module estimate (manual_issue))

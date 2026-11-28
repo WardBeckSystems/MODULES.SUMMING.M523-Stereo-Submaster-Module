@@ -1,5 +1,5 @@
 # 1985 - M523 - ST Series - Stereo Submaster Module - 034 - SA14-087 Output Amp.jpg
-Wiki page: [M523](../../../../PAGES/M523.md)
+Wiki page: [M523](../)
 
 
 - **Year:** 1985 (found in this file: "Issue #1 June 1985")

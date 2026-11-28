@@ -1,6 +1,6 @@
 # M523 Stereo Submaster Module · Summing
 
-Ward-Beck Systems M523, 1985|18. Wiki page: [M523 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M523.html)
+Ward-Beck Systems M523, 1985|18. Wiki page: [M523 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.SUMMING.M523-Stereo-Submaster-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|
